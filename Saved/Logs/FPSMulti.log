@@ -1299,3 +1299,157 @@ LogInit: Object subsystem initialized
 [2023.09.14-02.19.30:173][318]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2023.09.14-02.19.30:173][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.09.14-02.19.39:471][863]Cmd: SELECT NONE
+[2023.09.14-02.21.45:285][410]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.09.14-02.21.49:819][543]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.09.14-02.21.49:826][543]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.09.14-02.21.49:837][544]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.09.14-02.21.55:915][902]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> IKR_Player
+[2023.09.14-02.21.55:915][902]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.09.14-02.22.21:279][718]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2023.09.14-02.22.21:279][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.22.21:279][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.22.21:630][718]LogViewport: Scene viewport resized to 1407x860, mode Windowed.
+[2023.09.14-02.22.25:932][969]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.22.25:950][969]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.22.25:959][969]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.22.25:959][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.22.40:000][ 74]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2023.09.14-02.22.40:001][ 74]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.22.40:001][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.22.40:282][ 74]LogViewport: Scene viewport resized to 1407x860, mode Windowed.
+[2023.09.14-02.22.54:472][886]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.22.54:494][886]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.22.54:501][886]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.22.54:501][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.23.16:370][868]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.09.14-02.23.16:378][868]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.09.14-02.23.16:390][869]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.09.14-02.23.17:537][933]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2023.09.14-02.23.17:539][933]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.09.14-02.23.18:104][967]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/NewIKRetargeter.NewIKRetargeter
+[2023.09.14-02.23.18:104][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.23.18:104][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.23.18:385][967]LogViewport: Scene viewport resized to 1407x860, mode Windowed.
+[2023.09.14-02.23.20:801][107]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.09.14-02.23.20:812][107]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.09.14-02.23.20:821][107]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.23.20:821][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.23.23:012][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-02.23.24:214][236]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-02.23.24:242][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.14-02.23.24:245][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.14-02.23.24:247][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.09.14-02.23.26:111][348]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2023.09.14-02.23.26:112][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.23.26:112][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.23.26:381][348]LogViewport: Scene viewport resized to 1407x860, mode Windowed.
+[2023.09.14-02.23.44:696][259]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.23.44:706][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.23.47:607][368]LogSlate: Took 0.003443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.14-02.24.19:899][617]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.24.49:002][ 94]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_FL_UA.Anim_Crouch_FL_UA
+[2023.09.14-02.24.49:032][ 95]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_FL_UA.Anim_Crouch_FL_UA, at AnimationSequence/45f6b7a8685af42e32e72a3653b1757dd47f9dae
+[2023.09.14-02.25.06:310][856]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_B_UA.Anim_Run_B_UA
+[2023.09.14-02.25.06:328][857]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_B_UA.Anim_Run_B_UA, at AnimationSequence/96079d7130640911747155a58f75a0e3369f9a41
+[2023.09.14-02.25.18:392][ 59]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_BL_UA.Anim_Run_BL_UA
+[2023.09.14-02.25.18:411][ 60]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_BL_UA.Anim_Run_BL_UA, at AnimationSequence/666d2ffe290f0ba26b13c1f856987077429a62e5
+[2023.09.14-02.26.10:213][210]LogViewport: Scene viewport resized to 1408x860, mode Windowed.
+[2023.09.14-02.26.10:248][210]LogViewport: Scene viewport resized to 1433x860, mode Windowed.
+[2023.09.14-02.26.10:279][210]LogViewport: Scene viewport resized to 1471x860, mode Windowed.
+[2023.09.14-02.26.10:316][210]LogViewport: Scene viewport resized to 1504x860, mode Windowed.
+[2023.09.14-02.26.10:345][210]LogViewport: Scene viewport resized to 1518x860, mode Windowed.
+[2023.09.14-02.26.10:376][210]LogViewport: Scene viewport resized to 1522x860, mode Windowed.
+[2023.09.14-02.26.10:406][210]LogViewport: Scene viewport resized to 1532x860, mode Windowed.
+[2023.09.14-02.26.10:436][210]LogViewport: Scene viewport resized to 1543x860, mode Windowed.
+[2023.09.14-02.26.10:466][210]LogViewport: Scene viewport resized to 1555x860, mode Windowed.
+[2023.09.14-02.26.10:497][210]LogViewport: Scene viewport resized to 1570x860, mode Windowed.
+[2023.09.14-02.26.10:527][210]LogViewport: Scene viewport resized to 1582x860, mode Windowed.
+[2023.09.14-02.26.10:558][210]LogViewport: Scene viewport resized to 1591x860, mode Windowed.
+[2023.09.14-02.26.10:588][210]LogViewport: Scene viewport resized to 1604x860, mode Windowed.
+[2023.09.14-02.26.10:618][210]LogViewport: Scene viewport resized to 1619x860, mode Windowed.
+[2023.09.14-02.26.10:648][210]LogViewport: Scene viewport resized to 1631x860, mode Windowed.
+[2023.09.14-02.26.10:678][210]LogViewport: Scene viewport resized to 1647x860, mode Windowed.
+[2023.09.14-02.26.10:710][210]LogViewport: Scene viewport resized to 1663x860, mode Windowed.
+[2023.09.14-02.26.10:739][210]LogViewport: Scene viewport resized to 1677x860, mode Windowed.
+[2023.09.14-02.26.10:769][210]LogViewport: Scene viewport resized to 1683x860, mode Windowed.
+[2023.09.14-02.26.10:890][210]LogViewport: Scene viewport resized to 1684x860, mode Windowed.
+[2023.09.14-02.26.10:921][210]LogViewport: Scene viewport resized to 1685x860, mode Windowed.
+[2023.09.14-02.26.11:025][210]LogViewport: Scene viewport resized to 1684x860, mode Windowed.
+[2023.09.14-02.26.11:061][210]LogViewport: Scene viewport resized to 1681x860, mode Windowed.
+[2023.09.14-02.26.11:097][210]LogViewport: Scene viewport resized to 1679x860, mode Windowed.
+[2023.09.14-02.28.14:865][902]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.28.15:694][946]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.28.18:622][115]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.28.33:574][957]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.28.34:280][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.28.35:067][ 39]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.30.08:856][738]Cmd: TRANSACTION UNDO
+[2023.09.14-02.30.08:856][738]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.30.09:006][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.30.09:179][738]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.30.10:031][764]Cmd: TRANSACTION UNDO
+[2023.09.14-02.30.10:031][764]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.30.10:172][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.30.10:288][764]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.30.13:746][919]Cmd: TRANSACTION REDO
+[2023.09.14-02.30.13:746][919]LogEditorTransaction: Redo Rotate Retarget Pose Bone
+[2023.09.14-02.30.13:884][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.30.14:031][919]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.30.50:569][ 60]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_F_UA.Anim_Crouch_F_UA
+[2023.09.14-02.30.50:597][ 60]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_F_UA.Anim_Crouch_F_UA, at AnimationSequence/1d3973036e812b0230d57a22235f1464550d3612
+[2023.09.14-02.32.00:286][337]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.00:286][337]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.00:428][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.00:569][337]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.07:107][652]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.07:107][652]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.07:254][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.07:410][652]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.20:440][717]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.20:440][717]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.20:603][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.20:779][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.22:108][765]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.22:108][765]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.22:242][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.22:381][765]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.23:641][816]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.23:641][816]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.23:770][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.23:888][816]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.26:286][954]Cmd: TRANSACTION REDO
+[2023.09.14-02.32.26:286][954]LogEditorTransaction: Redo Rotate Retarget Pose Bone
+[2023.09.14-02.32.26:418][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.26:536][954]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.34:014][322]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.34:014][322]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.34:142][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.34:282][322]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.32.36:510][408]Cmd: TRANSACTION UNDO
+[2023.09.14-02.32.36:510][408]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2023.09.14-02.32.36:638][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.32.36:763][408]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-02.33.34:517][688]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_FR_UA.Anim_Crouch_FR_UA
+[2023.09.14-02.33.34:549][688]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_FR_UA.Anim_Crouch_FR_UA, at AnimationSequence/9e3e7e917759fd2d397d7134260682b726f8346d
+[2023.09.14-02.33.37:478][819]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_F_UA.Anim_Run_F_UA
+[2023.09.14-02.33.37:499][819]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_F_UA.Anim_Run_F_UA, at AnimationSequence/04d9b3ed8f58e7b25a841f7f176ee1cce433e4c8
+[2023.09.14-02.34.03:292][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-02.34.03:435][740]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2023.09.14-02.34.03:436][740]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IKR_Player52BBBAB44F1843771DF2E591C2CFE417.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2023.09.14-02.34.03:450][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 253 ms)
+[2023.09.14-02.34.03:452][740]AssetCheck: New page: Asset Save: IKR_Player
+[2023.09.14-02.34.03:452][740]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2023.09.14-02.34.06:707][907]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.34.06:727][907]LogSlate: Window 'IKR_Player' being destroyed
+[2023.09.14-02.34.06:737][907]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.34.06:737][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.34.07:964][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-02.34.07:999][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Main" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.14-02.34.08:018][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.14-02.34.08:094][977]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2023.09.14-02.34.08:094][977]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/MAP_Main143B20AC41CF7023119466A9F87C0DB4.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap'
+[2023.09.14-02.34.08:100][977]LogFileHelpers: All files are already saved.
+[2023.09.14-02.34.08:100][977]LogFileHelpers: Saving map 'MAP_Main' took 0.102
+[2023.09.14-02.34.08:115][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 404 ms)
+[2023.09.14-02.34.08:117][977]AssetCheck: New page: Asset Save: MAP_Main
+[2023.09.14-02.34.08:117][977]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
