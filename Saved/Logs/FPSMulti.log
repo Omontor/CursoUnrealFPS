@@ -1617,3 +1617,163 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.14-00.14.19:770][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.31 sec)
 [2023.09.14-00.14.19:772][575]AssetCheck: New page: Asset Save: MAP_Main
 [2023.09.14-00.14.19:772][575]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2023.09.14-00.14.58:266][926]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.14-00.14.58:267][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-00.14.58:267][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-00.14.58:387][926]LogSlate: Took 0.004603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: ================================================
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Total job queries 30, among them cache hits 3 (10.00%)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Tracking 27 distinct input hashes that result in 23 distinct outputs (85.19%)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: RAM used: 709,74 KiB of 1,60 GiB budget. Usage: 0.04%
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Job execution time: average 1.23 s, max 1.23 s
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Job life time (pending + execution): average 1.27 s, max 1.34
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Shader code size: average 38,628 KiB, min 38,324 KiB, max 38,934 KiB
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.34 s
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Average processing rate: 2.99 jobs/sec
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Total thread time: 1,154 s
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Total thread preprocess time: 0,112 s
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Percentage time preprocessing: 9.70%
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Effective parallelization: 0.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.29 sec)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.29 sec, max 0.29 sec, min 0.28 sec)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.50% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.29 sec)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.50% of total time (compiled    2 times, average 0.29 sec, max 0.29 sec, min 0.28 sec)
+[2023.09.14-00.14.58:510][927]LogShaderCompilers: Display: ================================================
+[2023.09.14-00.14.59:391][947]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-00.15.13:413][322]LogViewport: Scene viewport resized to 1097x778, mode Windowed.
+[2023.09.14-00.15.14:699][363]LogViewport: Scene viewport resized to 1096x778, mode Windowed.
+[2023.09.14-00.15.14:752][363]LogViewport: Scene viewport resized to 1077x778, mode Windowed.
+[2023.09.14-00.15.14:807][363]LogViewport: Scene viewport resized to 1030x778, mode Windowed.
+[2023.09.14-00.15.14:861][363]LogViewport: Scene viewport resized to 999x778, mode Windowed.
+[2023.09.14-00.15.14:916][363]LogViewport: Scene viewport resized to 978x778, mode Windowed.
+[2023.09.14-00.15.14:965][363]LogViewport: Scene viewport resized to 962x778, mode Windowed.
+[2023.09.14-00.15.15:019][363]LogViewport: Scene viewport resized to 959x778, mode Windowed.
+[2023.09.14-00.15.15:075][363]LogViewport: Scene viewport resized to 957x778, mode Windowed.
+[2023.09.14-00.15.15:127][363]LogViewport: Scene viewport resized to 944x778, mode Windowed.
+[2023.09.14-00.15.15:177][363]LogViewport: Scene viewport resized to 938x778, mode Windowed.
+[2023.09.14-00.15.15:225][363]LogViewport: Scene viewport resized to 933x778, mode Windowed.
+[2023.09.14-00.15.15:281][363]LogViewport: Scene viewport resized to 932x778, mode Windowed.
+[2023.09.14-00.15.15:335][363]LogViewport: Scene viewport resized to 933x778, mode Windowed.
+[2023.09.14-00.15.15:389][363]LogViewport: Scene viewport resized to 942x778, mode Windowed.
+[2023.09.14-00.15.15:445][363]LogViewport: Scene viewport resized to 958x778, mode Windowed.
+[2023.09.14-00.15.15:499][363]LogViewport: Scene viewport resized to 975x778, mode Windowed.
+[2023.09.14-00.15.15:547][363]LogViewport: Scene viewport resized to 991x778, mode Windowed.
+[2023.09.14-00.15.15:607][363]LogViewport: Scene viewport resized to 1018x778, mode Windowed.
+[2023.09.14-00.15.15:663][363]LogViewport: Scene viewport resized to 1028x778, mode Windowed.
+[2023.09.14-00.18.15:029][959]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.14-00.18.15:064][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.09.14-00.20.55:149][304]LogViewport: Scene viewport resized to 1027x778, mode Windowed.
+[2023.09.14-00.20.55:205][304]LogViewport: Scene viewport resized to 1025x778, mode Windowed.
+[2023.09.14-00.20.55:260][304]LogViewport: Scene viewport resized to 1019x778, mode Windowed.
+[2023.09.14-00.20.55:322][304]LogViewport: Scene viewport resized to 1015x778, mode Windowed.
+[2023.09.14-00.20.55:380][304]LogViewport: Scene viewport resized to 1011x778, mode Windowed.
+[2023.09.14-00.20.55:435][304]LogViewport: Scene viewport resized to 1006x778, mode Windowed.
+[2023.09.14-00.20.55:495][304]LogViewport: Scene viewport resized to 1002x778, mode Windowed.
+[2023.09.14-00.20.55:553][304]LogViewport: Scene viewport resized to 1001x778, mode Windowed.
+[2023.09.14-00.21.03:417][568]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.14-00.21.03:432][568]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.14-00.21.03:443][569]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.14-00.21.05:689][657]LogContentBrowser: Attempting asset rename: NewFolder -> Interface
+[2023.09.14-00.21.05:689][657]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.14-00.21.12:206][831]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.09.14-00.21.12:217][831]LogContentBrowser: Creating deferred item: NewInterface
+[2023.09.14-00.21.12:312][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.09.14-00.21.23:176][267]LogContentBrowser: Attempting asset rename: NewInterface -> INT_PlayerController
+[2023.09.14-00.21.23:180][267]LogContentBrowser: End creating deferred item NewInterface
+[2023.09.14-00.21.25:974][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interface/INT_PlayerController.INT_PlayerController
+[2023.09.14-00.21.25:974][366]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-00.21.25:975][366]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-00.21.32:944][634]BlueprintLog: New page: Compile INT_PlayerController
+[2023.09.14-00.21.32:980][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.09.14-00.22.09:808][ 36]LogSlate: Took 0.003717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.09.14-00.22.30:736][454]LogEditorTransaction: Undo Add Out Parameter
+[2023.09.14-00.22.58:945][992]BlueprintLog: New page: Compile INT_PlayerController
+[2023.09.14-00.22.58:954][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.14-00.22.59:759][ 19]BlueprintLog: New page: Compile INT_PlayerController
+[2023.09.14-00.22.59:767][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.14-00.23.00:438][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.23.00:533][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/Interface/INT_PlayerController
+[2023.09.14-00.23.00:535][ 40]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/INT_PlayerController9B0F71094A78D5F07CEE0B9A8FE1DD51.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Interface/INT_PlayerController.uasset'
+[2023.09.14-00.23.00:586][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1.46 sec)
+[2023.09.14-00.23.00:587][ 40]AssetCheck: New page: Asset Save: INT_PlayerController
+[2023.09.14-00.23.00:587][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interface/INT_PlayerController.INT_PlayerController
+[2023.09.14-00.23.12:921][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_FPS.PC_FPS
+[2023.09.14-00.23.12:923][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-00.23.12:923][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-00.23.13:050][274]LogViewport: Scene viewport resized to 1102x1221, mode Windowed.
+[2023.09.14-00.24.33:825][185]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957491582
+[2023.09.14-00.24.33:825][185]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.09.14-00.24.42:553][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.14-00.24.42:555][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.012
+[2023.09.14-00.24.42:555][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PLayerBase] ([2] browsable assets)...
+[2023.09.14-00.24.42:684][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase]
+[2023.09.14-00.24.42:684][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PLayerBase]
+[2023.09.14-00.24.42:688][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PLayerBase_Auto1
+[2023.09.14-00.24.42:688][211]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBase_Auto1A7D01E594A94BA1D5E510C84E6849298.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/BP_PLayerBase_Auto1.uasset'
+[2023.09.14-00.24.42:688][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PC_FPS] ([2] browsable assets)...
+[2023.09.14-00.24.42:688][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PC_FPS]
+[2023.09.14-00.24.42:690][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PC_FPS_Auto1
+[2023.09.14-00.24.42:690][211]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/PC_FPS_Auto1B4AF51144AED806DDE7D69929F212E5E.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/PC_FPS_Auto1.uasset'
+[2023.09.14-00.24.42:691][211]LogFileHelpers: Auto-saving content packages took 0.136
+[2023.09.14-00.26.06:903][467]BlueprintLog: New page: Compile PC_FPS
+[2023.09.14-00.26.06:937][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.14-00.26.07:665][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.26.07:752][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PC_FPS" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/PC_FPS.uasset" SILENT=true
+[2023.09.14-00.26.07:755][488]LogSavePackage: Moving output files for package: /Game/Blueprints/PC_FPS
+[2023.09.14-00.26.07:755][488]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/PC_FPS7CCF0AC5406BBDDF20ED71A663A17D0D.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/PC_FPS.uasset'
+[2023.09.14-00.26.07:804][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.60 sec)
+[2023.09.14-00.26.07:805][488]AssetCheck: New page: Asset Save: PC_FPS
+[2023.09.14-00.26.07:805][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PC_FPS.PC_FPS
+[2023.09.14-00.27.00:544][222]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.14-00.27.00:579][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.14-00.27.01:046][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.27.01:193][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.14-00.27.01:198][237]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.14-00.27.01:198][237]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBaseEB22BA954A7AC48DC619A38398AFB149.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.14-00.27.01:229][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 1.78 sec)
+[2023.09.14-00.27.01:230][237]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.14-00.27.01:230][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.14-00.27.19:045][857]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.14-00.27.19:080][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.14-00.27.19:664][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.27.19:808][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.14-00.27.19:812][877]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.14-00.27.19:812][877]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBaseDD6ABDE3424F594047ECE0AC6178C7D6.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.14-00.27.19:843][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.96 sec)
+[2023.09.14-00.27.19:843][877]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.14-00.27.19:844][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.14-00.27.31:888][318]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-00.27.31:888][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-00.27.54:281][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.27.54:357][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.14-00.27.54:365][912]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.14-00.27.54:365][912]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBase8B7ABFCA434A0F3AD3D86EAFF36FA270.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.14-00.27.54:410][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.09 sec)
+[2023.09.14-00.27.54:411][912]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.14-00.27.54:411][912]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.14-00.27.57:567][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.27.57:617][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.14-00.27.57:620][991]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.14-00.27.57:621][991]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBase5466E1AE45F346D4686F2F928C94F355.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.14-00.27.57:670][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.20 sec)
+[2023.09.14-00.27.57:672][991]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.14-00.27.57:672][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.14-00.28.03:551][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.14-00.29.00:754][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.29.00:890][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Main" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.14-00.29.00:912][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.14-00.29.00:970][315]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2023.09.14-00.29.00:970][315]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/MAP_Main2BD3CBB948B23A51473A1B9F94E17A43.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap'
+[2023.09.14-00.29.00:976][315]LogFileHelpers: All files are already saved.
+[2023.09.14-00.29.00:976][315]LogFileHelpers: Saving map 'MAP_Main' took 0.087
+[2023.09.14-00.29.01:007][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 2.45 sec)
+[2023.09.14-00.29.01:009][315]AssetCheck: New page: Asset Save: MAP_Main
+[2023.09.14-00.29.01:009][315]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
