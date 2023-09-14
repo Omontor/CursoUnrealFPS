@@ -1144,3 +1144,158 @@ LogInit: Object subsystem initialized
 [2023.09.14-01.46.14:217][820]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
 [2023.09.14-01.46.14:217][820]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
 [2023.09.14-01.47.18:228][184]LogDerivedDataCache: C:/Users/monto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4680 files in 6679 folders with total size 237 MiB.
+[2023.09.14-01.50.53:073][973]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2023.09.14-01.50.55:827][ 55]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.14-01.51.04:636][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-01.51.10:532][536]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.14-01.51.10:633][536]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.14-01.51.10:642][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.14-01.51.12:409][641]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.09.14-01.51.12:409][641]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.14-01.51.50:197][410]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.09.14-01.51.50:204][410]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.09.14-01.51.50:263][412]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.09.14-01.52.04:581][689]LogContentBrowser: Attempting asset rename: NewIKRig -> IK_Mannequin
+[2023.09.14-01.52.04:581][689]LogContentBrowser: End creating deferred item NewIKRig
+[2023.09.14-01.53.39:812][ 10]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2023.09.14-01.53.39:816][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-01.53.39:816][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-01.53.40:250][ 10]LogViewport: Scene viewport resized to 1407x716, mode Windowed.
+[2023.09.14-01.54.05:506][252]LogTexture: Display: Building textures: /Game/References/References03/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.09.14-01.54.05:511][252]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.09.14-01.54.05:515][252]LogTexture: Display: Building textures: /Game/References/References03/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.09.14-01.54.05:527][252]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2023.09.14-01.54.05:534][252]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/References/References03/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.09.14-01.54.05:538][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-01.54.05:556][252]LogTexture: Display: Waiting for textures to be ready 0/6 (/Game/References/References03/Character/Textures/UE4_Mannequin__normals) ...
+[2023.09.14-01.54.05:599][252]LogTexture: Display: Building textures: /Game/References/References03/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.09.14-01.54.05:647][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-01.54.05:696][252]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: ================================================
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: Total job queries 63, among them cache hits 10 (15.87%)
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 33 distinct outputs (78.57%)
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: RAM used: 1,00 MiB of 1,60 GiB budget. Usage: 0.06%
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-01.54.06:203][262]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Jobs assigned 13, completed 3 (23.08%)
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.46 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.46 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Job life time (pending + execution): average 0.47 s, max 0.47
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Shader code size: average 15,83 KiB, min 4,465 KiB, max 34,297 KiB
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.47 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Average processing rate: 6.35 jobs/sec
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Total thread time: 0,462 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Total thread preprocess time: 0,107 s
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Percentage time preprocessing: 23.06%
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 69.75% of total time (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display:                                                  FHitProxyPS - 30.25% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.09.14-01.54.06:204][262]LogShaderCompilers: Display: ================================================
+[2023.09.14-01.54.06:696][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-01.54.39:895][118]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_BL_UA.Anim_Crouch_BL_UA
+[2023.09.14-01.54.39:920][119]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_BL_UA.Anim_Crouch_BL_UA, at AnimationSequence/3ef88f63e78de2e4a9a5e3a24dcedc7ca5c9d11f
+[2023.09.14-01.54.41:349][160]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_B_UA.Anim_Crouch_B_UA
+[2023.09.14-01.54.41:378][161]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_B_UA.Anim_Crouch_B_UA, at AnimationSequence/29dbfc06be4dfde76b4d23401f0343189d308ada
+[2023.09.14-01.54.49:946][488]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Walk_B_UA.Anim_Walk_B_UA
+[2023.09.14-01.54.49:972][489]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Walk_B_UA.Anim_Walk_B_UA, at AnimationSequence/a153872f18c0466554be8c2d6c28120fe626891c
+[2023.09.14-01.55.37:252][593]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.55.56:974][ 32]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.56.10:588][ 88]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.56.21:568][320]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.56.29:780][495]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.56.42:037][795]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.56.46:749][820]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2023.09.14-01.57.12:083][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.14-01.57.12:084][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2023.09.14-01.57.12:084][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/Animations/IK_Mannequin] ([1] browsable assets)...
+[2023.09.14-01.57.12:094][701]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin]
+[2023.09.14-01.57.12:094][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/IK_Mannequin]
+[2023.09.14-01.57.12:099][701]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004934 seconds
+[2023.09.14-01.57.12:104][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto1
+[2023.09.14-01.57.12:104][701]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IK_Mannequin_Auto17E4E3CCB4600EC8A14BF07875A2F8AB0.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto1.uasset'
+[2023.09.14-01.57.12:104][701]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.09.14-02.07.12:469][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.14-02.07.12:470][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.011
+[2023.09.14-02.07.12:470][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/Animations/IK_Mannequin] ([1] browsable assets)...
+[2023.09.14-02.07.12:470][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/IK_Mannequin]
+[2023.09.14-02.07.12:473][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto2
+[2023.09.14-02.07.12:473][915]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IK_Mannequin_Auto2F96AF97240AF7D004331A1BC84C1A305.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto2.uasset'
+[2023.09.14-02.07.12:474][915]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.09.14-02.17.44:359][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.09.14-02.17.44:361][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.005
+[2023.09.14-02.17.44:361][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/Animations/IK_Mannequin] ([1] browsable assets)...
+[2023.09.14-02.17.44:361][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/IK_Mannequin]
+[2023.09.14-02.17.44:364][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto3
+[2023.09.14-02.17.44:364][140]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IK_Mannequin_Auto3AC8CB4624B3414BA702CE68F0488D68A.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/IK_Mannequin_Auto3.uasset'
+[2023.09.14-02.17.44:364][140]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.09.14-02.18.26:619][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-02.18.26:691][587]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2023.09.14-02.18.26:691][587]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IK_MannequinFA50A4FD4384F70DD3EDB8A5299413F2.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2023.09.14-02.18.26:714][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms
+[2023.09.14-02.18.26:715][587]AssetCheck: New page: Asset Save: IK_Mannequin
+[2023.09.14-02.18.26:715][587]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2023.09.14-02.18.37:728][ 59]LogSlate: Window 'IK_Mannequin' being destroyed
+[2023.09.14-02.18.37:751][ 59]LogSlate: Window 'IK_Mannequin' being destroyed
+[2023.09.14-02.18.37:762][ 59]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.18.37:762][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.18.48:006][413]LogContentBrowser: Deferred new asset file creation: IK_Mannequin1
+[2023.09.14-02.18.48:074][413]LogContentBrowser: Creating deferred item: IK_Mannequin1
+[2023.09.14-02.18.48:085][414]LogContentBrowser: Renaming the item being created (Deferred Item: IK_Mannequin1).
+[2023.09.14-02.18.51:495][618]LogContentBrowser: Attempting asset rename: IK_Mannequin1 -> IK_Player
+[2023.09.14-02.18.51:496][618]LogContentBrowser: End creating deferred item IK_Mannequin1
+[2023.09.14-02.18.59:245][702]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2023.09.14-02.18.59:245][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.18.59:245][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.18.59:261][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.18.59:261][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.18.59:526][702]LogViewport: Scene viewport resized to 1407x716, mode Windowed.
+[2023.09.14-02.19.12:565][971]LogSkeletalMesh: Building Skeletal Mesh MW_Style1_Male...
+[2023.09.14-02.19.12:578][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male.MW_Style1_Male
+[2023.09.14-02.19.12:580][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.14-02.19.12:589][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.19.12:745][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Total job queries 75, among them cache hits 20 (26.67%)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Tracking 55 distinct input hashes that result in 39 distinct outputs (70.91%)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: RAM used: 1,33 MiB of 1,60 GiB budget. Usage: 0.08%
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.58 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.68 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 0.79
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Shader code size: average 33,598 KiB, min 4,465 KiB, max 45,199 KiB
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.80 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Average processing rate: 17.51 jobs/sec
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Total thread time: 3,58 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Total thread preprocess time: 0,494 s
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Percentage time preprocessing: 13.79%
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Effective parallelization: 4.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.26 sec, max 0.30 sec, min 0.23 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.26 sec, max 0.30 sec, min 0.22 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.26 sec, max 0.27 sec, min 0.26 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.25 sec, max 0.32 sec, min 0.19 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 17.80% of total time (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.77% of total time (compiled    2 times, average 0.26 sec, max 0.30 sec, min 0.23 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                                  FHitProxyVS - 14.60% of total time (compiled    2 times, average 0.26 sec, max 0.30 sec, min 0.22 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                                  FVelocityVS - 14.54% of total time (compiled    2 times, average 0.26 sec, max 0.27 sec, min 0.26 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.11% of total time (compiled    2 times, average 0.25 sec, max 0.32 sec, min 0.19 sec)
+[2023.09.14-02.19.12:747][972]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.19.30:159][318]LogSlate: Window 'IK_Player' being destroyed
+[2023.09.14-02.19.30:166][318]LogSlate: Window 'IK_Player' being destroyed
+[2023.09.14-02.19.30:173][318]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-02.19.30:173][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-02.19.39:471][863]Cmd: SELECT NONE
