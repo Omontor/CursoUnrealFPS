@@ -1560,3 +1560,60 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.14-00.08.01:997][532]AssetCheck: New page: Asset Save: MAP_Main
 [2023.09.14-00.08.01:997][532]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
 [2023.09.14-00.08.02:723][567]Cmd: SELECT NONE
+[2023.09.14-00.08.44:386][726]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2023.09.14-00.08.44:386][726]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2023.09.14-00.09.03:987][192]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.14-00.09.03:999][192]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.14-00.09.04:009][193]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.14-00.09.06:018][312]LogContentBrowser: Attempting asset rename: NewFolder -> Inputs
+[2023.09.14-00.09.06:018][312]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.14-00.09.08:856][468]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.09.14-00.09.11:657][543]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.09.14-00.09.11:666][543]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.09.14-00.09.11:733][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.09.14-00.09.18:706][960]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Default
+[2023.09.14-00.09.18:707][960]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.09.14-00.09.20:071][ 38]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.14-00.09.30:878][409]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.09.14-00.09.30:885][409]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.09.14-00.09.30:899][410]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.09.14-00.09.35:808][605]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Movement
+[2023.09.14-00.09.35:809][605]LogContentBrowser: End creating deferred item NewInputAction
+[2023.09.14-00.09.37:365][665]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/Inputs/IA_Movement.IA_Movement
+[2023.09.14-00.10.06:207][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.10.06:295][553]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IA_Movement
+[2023.09.14-00.10.06:295][553]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IA_MovementDAF20CA343A154EB2A73E5ACD6AAD526.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IA_Movement.uasset'
+[2023.09.14-00.10.06:348][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 826 ms)
+[2023.09.14-00.10.06:348][553]AssetCheck: New page: Asset Save: IA_Movement
+[2023.09.14-00.10.06:348][553]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Blueprints/Player/Inputs/IA_Movement.IA_Movement
+[2023.09.14-00.11.22:301][431]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.09.14-00.11.22:335][431]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.09.14-00.11.22:407][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.09.14-00.11.26:669][599]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2023.09.14-00.11.26:670][599]LogContentBrowser: End creating deferred item NewInputAction
+[2023.09.14-00.11.27:933][648]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/Inputs/IA_Look.IA_Look
+[2023.09.14-00.11.38:829][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.11.38:918][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Inputs/IA_Look" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IA_Look.uasset" SILENT=true
+[2023.09.14-00.11.38:918][  5]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IA_Look
+[2023.09.14-00.11.38:918][  5]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IA_Look8A46D60B41DF517C9604F18606C34870.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IA_Look.uasset'
+[2023.09.14-00.11.38:970][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 968 ms)
+[2023.09.14-00.11.38:971][  5]AssetCheck: New page: Asset Save: IA_Look
+[2023.09.14-00.11.38:971][  5]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Blueprints/Player/Inputs/IA_Look.IA_Look
+[2023.09.14-00.14.13:443][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.14.13:575][338]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IMC_Default
+[2023.09.14-00.14.13:575][338]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IMC_DefaultBB61FAD14AA26BDF4E75EE9D6611F8A6.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IMC_Default.uasset'
+[2023.09.14-00.14.13:623][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.14 sec)
+[2023.09.14-00.14.13:624][338]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.14-00.14.13:624][338]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.14-00.14.15:361][405]LogSlate: Window 'IA_Look' being destroyed
+[2023.09.14-00.14.15:383][405]LogSlate: Window 'IA_Look' being destroyed
+[2023.09.14-00.14.19:599][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.14-00.14.19:653][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Main" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.14-00.14.19:684][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.14-00.14.19:734][575]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2023.09.14-00.14.19:734][575]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/MAP_MainF53F067347B275F34A3C6E88B122CCA7.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Maps/MAP_Main.umap'
+[2023.09.14-00.14.19:738][575]LogFileHelpers: All files are already saved.
+[2023.09.14-00.14.19:738][575]LogFileHelpers: Saving map 'MAP_Main' took 0.086
+[2023.09.14-00.14.19:770][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.31 sec)
+[2023.09.14-00.14.19:772][575]AssetCheck: New page: Asset Save: MAP_Main
+[2023.09.14-00.14.19:772][575]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
