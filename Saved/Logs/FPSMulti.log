@@ -4116,3 +4116,120 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.27-00.49.55:557][233]AssetCheck: New page: Asset Save: AnimBP_Player
 [2023.09.27-00.49.55:557][233]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
 [2023.09.27-00.49.59:253][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.27-00.51.20:415][643]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.27-00.51.20:415][643]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.09.27-00.51.44:598][177]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.09.27-00.51.44:624][177]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.09.27-00.51.44:653][178]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.09.27-00.51.50:809][399]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Crouch
+[2023.09.27-00.51.50:917][399]LogContentBrowser: End creating deferred item NewInputAction
+[2023.09.27-00.51.54:327][450]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.27-00.53.27:345][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-00.53.27:373][514]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IMC_Default
+[2023.09.27-00.53.27:373][514]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IMC_DefaultF5D2B89C4B1647D79D6936987AE1B3D5.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IMC_Default.uasset'
+[2023.09.27-00.53.27:398][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.24 sec)
+[2023.09.27-00.53.27:400][514]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.27-00.53.27:400][514]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.27-00.55.11:248][814]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.27-00.55.11:278][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.27-00.55.11:489][817]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.27-00.55.11:582][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.09.27-00.55.13:090][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-00.55.13:097][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-00.55.13:097][858]PIE: New page: PIE session: MAP_Main (26 sep. 2023 16:55:13)
+[2023.09.27-00.55.13:097][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.27-00.55.13:118][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021170s)
+[2023.09.27-00.55.13:118][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.021209s)
+[2023.09.27-00.55.13:129][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.09.27-00.55.13:132][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-00.55.13:132][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-00.55.13:132][858]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.27-00.55.13:133][858]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2023.09.27-00.55.13:133][858]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.27-00.55.13:133][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.27-00.55.13:133][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-00.55.13:133][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-00.55.13:133][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-00.55.13:133][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-00.55.13:135][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-00.55.13:156][858]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.27-00.55.13:156][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-00.55.13:156][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-00.55.13:156][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-00.55.13:157][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.09.27-00.55.13:157][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.09.27-00.55.13:159][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.09.27-00.55.13:159][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.09.27-00.55.13:159][858]LogInit: FAudioDevice initialized with ID 18.
+[2023.09.27-00.55.13:159][858]LogAudio: Display: Audio Device (ID: 18) registered with world 'MAP_Main'.
+[2023.09.27-00.55.13:159][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.09.27-00.55.13:161][858]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.27-00.55.13:169][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.26-20.55.13
+[2023.09.27-00.55.13:169][858]LogWorld: Bringing up level for play took: 0.007668
+[2023.09.27-00.55.13:170][858]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.09.27-00.55.13:173][858]PIE: Server logged in
+[2023.09.27-00.55.13:174][858]PIE: Play in editor total start time 0,077 seconds.
+[2023.09.27-00.55.14:470][928]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.14:620][937]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.14:787][947]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.14:922][955]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.15:493][989]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.15:646][998]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.17:962][136]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.18:961][196]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.21:679][359]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.22:346][399]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.22:662][418]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.23:129][446]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.23:263][454]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.23:379][461]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.23:464][466]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.23:547][471]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.23:630][476]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.23:713][481]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.23:796][486]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.23:883][491]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.23:951][495]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Pressed!
+[2023.09.27-00.55.24:058][501]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Depressed
+[2023.09.27-00.55.24:331][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-00.55.24:331][516]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.27-00.55.24:332][516]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-00.55.24:333][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-00.55.24:336][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-00.55.24:339][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-00.55.24:346][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-00.55.24:346][516]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.09.27-00.55.24:346][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.09.27-00.55.24:349][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.09.27-00.55.24:358][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.27-00.55.24:449][517]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.09.27-00.55.43:491][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-00.55.43:546][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.27-00.55.43:556][204]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.27-00.55.43:557][204]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBaseC79A1B3E40A7712B78FD22835E47A46F.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.27-00.55.43:573][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.32 sec)
+[2023.09.27-00.55.43:575][204]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.27-00.55.43:575][204]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.27-00.55.44:000][218]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.27-00.55.44:030][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.27-00.55.44:845][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-00.55.44:920][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.27-00.55.44:937][227]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.27-00.55.44:937][227]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBaseAF9D752F48F18A202B89689E587EAAA2.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.27-00.55.44:965][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.44 sec)
+[2023.09.27-00.55.44:971][227]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.27-00.55.44:971][227]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.27-00.55.47:142][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.27-00.55.47:227][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-00.55.47:258][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Inputs/IA_Crouch" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IA_Crouch.uasset" SILENT=true
+[2023.09.27-00.55.47:259][296]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IA_Crouch
+[2023.09.27-00.55.47:259][296]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IA_Crouch7A0CBCDE43270EA4D192C7ADEB54BC5D.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IA_Crouch.uasset'
+[2023.09.27-00.55.47:401][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 2.62 sec)
+[2023.09.27-00.55.47:405][296]AssetCheck: New page: Asset Save: IA_Crouch
+[2023.09.27-00.55.47:405][296]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Blueprints/Player/Inputs/IA_Crouch.IA_Crouch
