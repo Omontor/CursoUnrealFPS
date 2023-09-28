@@ -1844,3 +1844,1088 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.28-23.05.36:662][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 503 ms)
 [2023.09.28-23.05.36:663][241]AssetCheck: New page: Asset Save: IA_Jump
 [2023.09.28-23.05.36:663][241]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Blueprints/Player/Inputs/IA_Jump.IA_Jump
+[2023.09.28-23.06.22:818][542]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/Inputs/IA_Jump.IA_Jump
+[2023.09.28-23.06.27:018][590]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.28-23.06.33:073][727]LogSlate: Took 0.003391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.28-23.07.03:358][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.07.03:416][393]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IMC_Default
+[2023.09.28-23.07.03:416][393]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IMC_DefaultD90874224E3D9E7D19EBE4BD6B80132A.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IMC_Default.uasset'
+[2023.09.28-23.07.03:468][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 613 ms)
+[2023.09.28-23.07.03:469][393]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.28-23.07.03:469][393]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.28-23.07.04:153][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.07.04:207][406]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Inputs/IMC_Default
+[2023.09.28-23.07.04:208][406]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/IMC_DefaultF9AD12434C054F304145F98FE6842965.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Inputs/IMC_Default.uasset'
+[2023.09.28-23.07.04:258][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 719 ms)
+[2023.09.28-23.07.04:260][406]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.28-23.07.04:260][406]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Inputs/IMC_Default.IMC_Default
+[2023.09.28-23.07.54:411][713]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.28-23.07.54:457][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.28-23.07.58:628][811]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.07.58:634][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-23.07.58:634][811]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:07:58)
+[2023.09.28-23.07.58:634][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.07.58:654][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019517s)
+[2023.09.28-23.07.58:654][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.019547s)
+[2023.09.28-23.07.58:664][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.28-23.07.58:667][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.07.58:667][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.07.58:667][811]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.07.58:668][811]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2023.09.28-23.07.58:668][811]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.07.58:668][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.07.58:668][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.07.58:668][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.07.58:668][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.07.58:668][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.07.58:671][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.07.58:686][811]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.07.58:686][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.07.58:686][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.07.58:686][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.07.58:687][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.09.28-23.07.58:687][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.09.28-23.07.58:689][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.09.28-23.07.58:689][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.09.28-23.07.58:689][811]LogInit: FAudioDevice initialized with ID 10.
+[2023.09.28-23.07.58:689][811]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Main'.
+[2023.09.28-23.07.58:689][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.28-23.07.58:709][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.07.58:709][811]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.07.58:717][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.07.58
+[2023.09.28-23.07.58:721][811]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.09.28-23.07.58:721][811]LogWorld: Bringing up level for play took: 0.011238
+[2023.09.28-23.07.58:723][811]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.07.58:723][811]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.07.58:723][811]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.07.58:723][811]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.07.58:723][811]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.07.58:723][811]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2023.09.28-23.07.58:728][811]PIE: Server logged in
+[2023.09.28-23.07.58:733][811]PIE: Play in editor total start time 0,099 seconds.
+[2023.09.28-23.07.58:733][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.07.58:733][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.07.58:734][811]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2023.09.28-23.07.58:734][811]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.07.58:734][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.07.58:734][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.07.58:734][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.07.58:734][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.07.58:734][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.07.58:736][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.07.58:752][811]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.07.58:752][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.07.58:752][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.07.58:752][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.07.58:752][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.28-23.07.58:752][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.28-23.07.58:754][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.28-23.07.58:754][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.28-23.07.58:754][811]LogInit: FAudioDevice initialized with ID 11.
+[2023.09.28-23.07.58:754][811]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled'.
+[2023.09.28-23.07.58:754][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.28-23.07.58:781][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.07.58:781][811]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.07.58:781][811]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.07.58:781][811]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.07.58:781][811]LogNet: IpConnection_8 setting maximum channels to: 32767
+[2023.09.28-23.07.58:781][811]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.07.58:782][811]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2023.09.28-23.07.58:782][811]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.07.58:786][811]PIE: Client logged in
+[2023.09.28-23.07.58:790][811]PIE: Play in editor total start time 0,157 seconds.
+[2023.09.28-23.07.58:967][811]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.07.58:971][811]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.07.59:827][830]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54996
+[2023.09.28-23.07.59:827][830]LogHandshake: SendConnectChallenge. Timestamp: 1.532639, Cookie: 094121129135171135194111100186140079202071223039196027221073
+[2023.09.28-23.07.59:828][830]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.07.59:828][830]LogHandshake: SendChallengeResponse. Timestamp: 1.532639, Cookie: 094121129135171135194111100186140079202071223039196027221073
+[2023.09.28-23.07.59:869][831]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54996
+[2023.09.28-23.07.59:869][831]LogHandshake: SendChallengeAck. InCookie: 094121129135171135194111100186140079202071223039196027221073
+[2023.09.28-23.07.59:869][831]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54996
+[2023.09.28-23.07.59:869][831]LogNet: IpConnection_9 setting maximum channels to: 32767
+[2023.09.28-23.07.59:869][831]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.07.59:869][831]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:07:59, [UNetConnection] RemoteAddr: 127.0.0.1:54996, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.07.59:869][831]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54996, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.07.59:870][831]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.07.59:910][832]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.07.59:910][832]LogNet: Remote platform little endian=1
+[2023.09.28-23.07.59:910][832]LogNet: This platform little endian=1
+[2023.09.28-23.07.59:913][832]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.09.28-23.07.59:952][833]LogNet: Login request: ?Name=MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF userId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF platform: NULL
+[2023.09.28-23.07.59:953][833]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.07.59:953][833]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.07.59:953][833]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2023.09.28-23.07.59:953][833]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.07.59:953][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.07.59:966][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.07.59:999][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.28-23.08.00:026][833]LogAudio: Display: Audio Device (ID: 11) registered with world 'MAP_Main'.
+[2023.09.28-23.08.00:026][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.08.00:026][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.08.00:027][833]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2023.09.28-23.08.00:034][833]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.08.00
+[2023.09.28-23.08.00:034][833]LogWorld: Bringing up level for play took: 0.007073
+[2023.09.28-23.08.00:034][833]LogLoad: Took 0.081211 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.08.00:086][834]LogNet: Client netspeed is 100000
+[2023.09.28-23.08.00:086][834]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF?SplitscreenCount=1
+[2023.09.28-23.08.00:089][834]LogNet: Join succeeded: MontorPC-73DA61504BA
+[2023.09.28-23.08.06:929][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.08.06:930][985]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.08.06:930][985]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.08.06:952][985]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.08.06:953][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.08.06:954][985]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2023.09.28-23.08.06:954][985]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2023.09.28-23.08.06:954][985]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF, Channels: 11, Time: 2023.09.28-23.08.06
+[2023.09.28-23.08.06:954][985]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF
+[2023.09.28-23.08.06:954][985]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2023.09.28-23.08.06:956][985]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.08.06:956][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.08.06:956][985]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.08.06:963][985]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.08.06:965][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.08.06:966][985]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2023.09.28-23.08.06:966][985]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2023.09.28-23.08.06:966][985]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.08.06:966][985]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.08.06:966][985]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54996, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF
+[2023.09.28-23.08.06:966][985]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54996, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF, Channels: 11, Time: 2023.09.28-23.08.06
+[2023.09.28-23.08.06:966][985]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.08.06:966][985]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.08.06:966][985]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54996, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-73DA61504BAEAFEC5E5A59B9C32CFCFF
+[2023.09.28-23.08.06:967][985]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2023.09.28-23.08.06:968][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.08.06:973][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.08.06:984][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.08.06:984][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.28-23.08.06:985][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.28-23.08.06:987][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.28-23.08.06:992][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.28-23.08.06:992][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.28-23.08.06:994][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.28-23.08.07:007][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.28-23.08.07:137][986]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.28-23.08.07:137][986]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.28-23.08.32:229][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.09.28-23.08.32:230][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.011
+[2023.09.28-23.08.32:231][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/BP_PLayerBase] ([2] browsable assets)...
+[2023.09.28-23.08.32:231][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.08.32:353][ 97]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase_C]
+[2023.09.28-23.08.32:382][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase]
+[2023.09.28-23.08.32:382][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PLayerBase]
+[2023.09.28-23.08.32:397][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PLayerBase_Auto1
+[2023.09.28-23.08.32:397][ 97]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBase_Auto1F026B0DC4E0A6A4DECBD8CAA5D6E0093.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/BP_PLayerBase_Auto1.uasset'
+[2023.09.28-23.08.32:398][ 97]LogFileHelpers: Auto-saving content packages took 0.167
+[2023.09.28-23.14.12:649][334]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.09.28-23.14.12:702][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.28-23.14.41:025][373]BlueprintLog: New page: Collapse to Function
+[2023.09.28-23.15.26:597][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.15.26:671][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.09.28-23.15.26:687][881]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.09.28-23.15.26:687][881]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBaseB3B5D9A8483F4ED1A8FB9A8AB37CA16C.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.09.28-23.15.26:718][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 840 ms)
+[2023.09.28-23.15.26:719][881]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.09.28-23.15.26:719][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.09.28-23.15.44:408][565]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.15.44:413][565]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.28-23.15.44:414][565]LogPlayLevel: [PlayLevel] Compiling AnimBP_Player before play...
+[2023.09.28-23.15.44:415][565]LogPlayLevel: [PlayLevel]   Compiling BP_PLayerBase as a dependent...
+[2023.09.28-23.15.44:498][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.28-23.15.44:503][565]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (2 blueprints)
+[2023.09.28-23.15.44:503][565]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:15:44)
+[2023.09.28-23.15.44:504][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.15.44:524][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021568s)
+[2023.09.28-23.15.44:524][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.021611s)
+[2023.09.28-23.15.44:536][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.28-23.15.44:537][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.15.44:537][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.15.44:537][565]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.15.44:538][565]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2023.09.28-23.15.44:538][565]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.15.44:538][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.15.44:538][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.15.44:538][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.15.44:538][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.15.44:538][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.15.44:541][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.15.44:558][565]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.15.44:559][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.15.44:559][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.15.44:559][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.15.44:560][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.09.28-23.15.44:560][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.09.28-23.15.44:562][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.09.28-23.15.44:562][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.09.28-23.15.44:562][565]LogInit: FAudioDevice initialized with ID 12.
+[2023.09.28-23.15.44:562][565]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Main'.
+[2023.09.28-23.15.44:562][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.28-23.15.44:590][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.15.44:590][565]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.15.44:599][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.15.44
+[2023.09.28-23.15.44:601][565]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.09.28-23.15.44:601][565]LogWorld: Bringing up level for play took: 0.011170
+[2023.09.28-23.15.44:604][565]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.15.44:604][565]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.15.44:604][565]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.15.44:604][565]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.15.44:604][565]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.15.44:604][565]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2023.09.28-23.15.44:607][565]PIE: Server logged in
+[2023.09.28-23.15.44:610][565]PIE: Play in editor total start time 0,197 seconds.
+[2023.09.28-23.15.44:611][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.15.44:611][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.15.44:611][565]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2023.09.28-23.15.44:611][565]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.15.44:612][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.15.44:612][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.15.44:612][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.15.44:612][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.15.44:612][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.15.44:614][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.15.44:628][565]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.15.44:629][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.15.44:629][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.15.44:629][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.15.44:630][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.09.28-23.15.44:630][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.09.28-23.15.44:632][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.09.28-23.15.44:632][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.09.28-23.15.44:632][565]LogInit: FAudioDevice initialized with ID 13.
+[2023.09.28-23.15.44:632][565]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2023.09.28-23.15.44:632][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.28-23.15.44:663][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.15.44:664][565]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.15.44:664][565]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.15.44:664][565]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.15.44:664][565]LogNet: IpConnection_10 setting maximum channels to: 32767
+[2023.09.28-23.15.44:664][565]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.15.44:665][565]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2023.09.28-23.15.44:665][565]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.15.44:668][565]PIE: Client logged in
+[2023.09.28-23.15.44:671][565]PIE: Play in editor total start time 0,258 seconds.
+[2023.09.28-23.15.44:859][565]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.15.44:863][565]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.15.45:717][584]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60008
+[2023.09.28-23.15.45:717][584]LogHandshake: SendConnectChallenge. Timestamp: 1.342510, Cookie: 215252143016004059144227194228017097095105157122037231035147
+[2023.09.28-23.15.45:718][584]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.15.45:718][584]LogHandshake: SendChallengeResponse. Timestamp: 1.342510, Cookie: 215252143016004059144227194228017097095105157122037231035147
+[2023.09.28-23.15.45:758][585]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60008
+[2023.09.28-23.15.45:758][585]LogHandshake: SendChallengeAck. InCookie: 215252143016004059144227194228017097095105157122037231035147
+[2023.09.28-23.15.45:759][585]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60008
+[2023.09.28-23.15.45:759][585]LogNet: IpConnection_11 setting maximum channels to: 32767
+[2023.09.28-23.15.45:759][585]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.15.45:759][585]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:15:45, [UNetConnection] RemoteAddr: 127.0.0.1:60008, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.15.45:759][585]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60008, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.15.45:760][585]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.15.45:801][586]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.15.45:801][586]LogNet: Remote platform little endian=1
+[2023.09.28-23.15.45:801][586]LogNet: This platform little endian=1
+[2023.09.28-23.15.45:803][586]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.09.28-23.15.45:843][587]LogNet: Login request: ?Name=MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36 userId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36 platform: NULL
+[2023.09.28-23.15.45:844][587]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.15.45:844][587]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.15.45:844][587]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2023.09.28-23.15.45:844][587]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.15.45:844][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.15.45:854][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.15.45:886][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.28-23.15.45:913][587]LogAudio: Display: Audio Device (ID: 13) registered with world 'MAP_Main'.
+[2023.09.28-23.15.45:913][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.15.45:913][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.15.45:915][587]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.09.28-23.15.45:921][587]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.15.45
+[2023.09.28-23.15.45:921][587]LogWorld: Bringing up level for play took: 0.005773
+[2023.09.28-23.15.45:921][587]LogLoad: Took 0.076876 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.15.45:970][588]LogNet: Client netspeed is 100000
+[2023.09.28-23.15.45:971][588]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36?SplitscreenCount=1
+[2023.09.28-23.15.45:973][588]LogNet: Join succeeded: MontorPC-561AA6DA406
+[2023.09.28-23.15.53:904][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.15.53:904][763]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.15.53:905][763]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.15.53:940][763]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.15.53:941][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.15.53:941][763]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2023.09.28-23.15.53:941][763]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2023.09.28-23.15.53:941][763]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36, Channels: 11, Time: 2023.09.28-23.15.53
+[2023.09.28-23.15.53:941][763]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36
+[2023.09.28-23.15.53:941][763]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2023.09.28-23.15.53:944][763]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.15.53:945][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.15.53:945][763]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.15.53:951][763]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.15.53:954][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.15.53:954][763]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2023.09.28-23.15.53:954][763]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2023.09.28-23.15.53:954][763]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.15.53:954][763]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.15.53:954][763]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60008, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36
+[2023.09.28-23.15.53:954][763]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60008, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36, Channels: 11, Time: 2023.09.28-23.15.53
+[2023.09.28-23.15.53:954][763]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.15.53:954][763]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.15.53:954][763]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60008, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-561AA6DA406E6BD5F3E0F3B87B047D36
+[2023.09.28-23.15.53:955][763]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2023.09.28-23.15.53:957][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.15.53:962][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.15.53:974][763]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.09.28-23.15.53:974][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.28-23.15.53:976][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.28-23.15.53:983][763]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.28-23.15.53:983][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.28-23.15.53:986][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.28-23.15.53:999][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.28-23.15.54:107][764]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.09.28-23.15.54:107][764]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.28-23.21.55:545][932]LogDerivedDataCache: C:/Users/monto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5000 files in 7112 folders with total size 250 MiB.
+[2023.09.28-23.23.14:176][731]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.09.28-23.23.14:756][754]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.28-23.23.19:434][934]LogViewport: Scene viewport resized to 425x584, mode Windowed.
+[2023.09.28-23.23.19:464][934]LogViewport: Scene viewport resized to 426x584, mode Windowed.
+[2023.09.28-23.23.19:489][934]LogViewport: Scene viewport resized to 427x584, mode Windowed.
+[2023.09.28-23.23.19:513][934]LogViewport: Scene viewport resized to 428x584, mode Windowed.
+[2023.09.28-23.23.19:536][934]LogViewport: Scene viewport resized to 429x584, mode Windowed.
+[2023.09.28-23.23.19:561][934]LogViewport: Scene viewport resized to 430x584, mode Windowed.
+[2023.09.28-23.23.19:585][934]LogViewport: Scene viewport resized to 431x584, mode Windowed.
+[2023.09.28-23.23.19:646][934]LogViewport: Scene viewport resized to 432x584, mode Windowed.
+[2023.09.28-23.23.19:683][934]LogViewport: Scene viewport resized to 433x584, mode Windowed.
+[2023.09.28-23.23.19:725][934]LogViewport: Scene viewport resized to 434x584, mode Windowed.
+[2023.09.28-23.23.19:748][934]LogViewport: Scene viewport resized to 435x584, mode Windowed.
+[2023.09.28-23.23.19:955][934]LogViewport: Scene viewport resized to 436x584, mode Windowed.
+[2023.09.28-23.23.19:979][934]LogViewport: Scene viewport resized to 437x584, mode Windowed.
+[2023.09.28-23.23.19:997][934]LogViewport: Scene viewport resized to 438x584, mode Windowed.
+[2023.09.28-23.23.20:115][934]LogViewport: Scene viewport resized to 634x778, mode Windowed.
+[2023.09.28-23.23.27:150][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.24.23:997][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.09.28-23.24.24:001][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2023.09.28-23.24.24:001][486]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/Animations/AnimBP_Player] ([2] browsable assets)...
+[2023.09.28-23.24.24:011][486]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player]
+[2023.09.28-23.24.24:011][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/AnimBP_Player]
+[2023.09.28-23.24.24:032][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto2
+[2023.09.28-23.24.24:033][486]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_Player_Auto2986E5BA8476AB144A20E49BDE923F01F.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto2.uasset'
+[2023.09.28-23.24.24:034][486]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.09.28-23.36.33:586][541]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.36.33:591][541]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] Idle/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.33:592][541]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpStart to JumpAir  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.33:592][541]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpAir to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.33:592][541]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpEnd to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.33:623][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.28-23.36.56:547][208]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.36.56:552][208]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] Idle/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.56:552][208]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpStart to JumpAir  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.56:554][208]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpAir to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.56:554][208]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpEnd to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.36.56:585][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.28-23.37.28:234][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.09.28-23.37.28:238][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.017
+[2023.09.28-23.37.28:238][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/Animations/AnimBP_Player] ([2] browsable assets)...
+[2023.09.28-23.37.28:250][533]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player]
+[2023.09.28-23.37.28:250][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/AnimBP_Player]
+[2023.09.28-23.37.28:278][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto3
+[2023.09.28-23.37.28:278][533]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_Player_Auto32C915C8A45BB6FBA9B72BAB5EA65C04B.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto3.uasset'
+[2023.09.28-23.37.28:279][533]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.09.28-23.38.08:349][490]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.38.08:355][490]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] Idle/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.08:356][490]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpStart to JumpAir  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.08:356][490]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpAir to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.08:356][490]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpEnd to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.08:385][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.28-23.38.36:275][ 90]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.38.36:284][ 90]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpStart to JumpAir  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.36:284][ 90]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpAir to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.36:284][ 90]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpEnd to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.38.36:312][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.28-23.39.33:599][505]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.39.33:606][505]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpAir to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.39.33:606][505]LogBlueprint: Warning: [AssetLog] D:\yomero\Cursos Unreal\FPS Multiplayer\FPSMulti\Content\Blueprints\Player\Animations\AnimBP_Player.uasset: [Compiler] JumpEnd to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.09.28-23.39.33:636][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.28-23.43.39:295][794]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.43.39:338][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.09.28-23.43.47:671][ 78]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.43.47:679][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-23.43.47:679][ 78]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:43:47)
+[2023.09.28-23.43.47:679][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.43.47:703][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023838s)
+[2023.09.28-23.43.47:703][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.023915s)
+[2023.09.28-23.43.47:719][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.28-23.43.47:721][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.43.47:722][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.43.47:722][ 78]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.43.47:723][ 78]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2023.09.28-23.43.47:723][ 78]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.43.47:723][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.43.47:723][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.43.47:724][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.43.47:724][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.43.47:724][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.43.47:727][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.43.47:751][ 78]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.43.47:751][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.43.47:751][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.43.47:751][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.43.47:752][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.09.28-23.43.47:752][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.09.28-23.43.47:755][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.09.28-23.43.47:755][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.09.28-23.43.47:755][ 78]LogInit: FAudioDevice initialized with ID 14.
+[2023.09.28-23.43.47:755][ 78]LogAudio: Display: Audio Device (ID: 14) registered with world 'MAP_Main'.
+[2023.09.28-23.43.47:755][ 78]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.28-23.43.47:784][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.43.47:784][ 78]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.43.47:793][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.43.47
+[2023.09.28-23.43.47:796][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.09.28-23.43.47:797][ 78]LogWorld: Bringing up level for play took: 0.013167
+[2023.09.28-23.43.47:800][ 78]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.43.47:800][ 78]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.43.47:800][ 78]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.43.47:800][ 78]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.43.47:800][ 78]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.43.47:800][ 78]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2023.09.28-23.43.47:806][ 78]PIE: Server logged in
+[2023.09.28-23.43.47:810][ 78]PIE: Play in editor total start time 0,131 seconds.
+[2023.09.28-23.43.47:810][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.43.47:810][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.43.47:811][ 78]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2023.09.28-23.43.47:811][ 78]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.43.47:811][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.43.47:811][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.43.47:811][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.43.47:811][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.43.47:811][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.43.47:815][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.43.47:833][ 78]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.43.47:833][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.43.47:833][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.43.47:833][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.43.47:834][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.09.28-23.43.47:834][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.09.28-23.43.47:837][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.09.28-23.43.47:837][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.09.28-23.43.47:837][ 78]LogInit: FAudioDevice initialized with ID 15.
+[2023.09.28-23.43.47:837][ 78]LogAudio: Display: Audio Device (ID: 15) registered with world 'Untitled'.
+[2023.09.28-23.43.47:837][ 78]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.28-23.43.47:873][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.43.47:873][ 78]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.43.47:873][ 78]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.43.47:873][ 78]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.43.47:873][ 78]LogNet: IpConnection_12 setting maximum channels to: 32767
+[2023.09.28-23.43.47:874][ 78]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.43.47:876][ 78]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2023.09.28-23.43.47:876][ 78]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.43.47:882][ 78]PIE: Client logged in
+[2023.09.28-23.43.47:886][ 78]PIE: Play in editor total start time 0,207 seconds.
+[2023.09.28-23.43.48:028][ 78]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.43.48:033][ 78]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.43.48:944][ 96]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52751
+[2023.09.28-23.43.48:944][ 96]LogHandshake: SendConnectChallenge. Timestamp: 1.306200, Cookie: 034064128024163033089191145200254009067138147117226133240210
+[2023.09.28-23.43.48:945][ 96]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.43.48:945][ 96]LogHandshake: SendChallengeResponse. Timestamp: 1.306200, Cookie: 034064128024163033089191145200254009067138147117226133240210
+[2023.09.28-23.43.48:990][ 97]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52751
+[2023.09.28-23.43.48:990][ 97]LogHandshake: SendChallengeAck. InCookie: 034064128024163033089191145200254009067138147117226133240210
+[2023.09.28-23.43.48:990][ 97]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52751
+[2023.09.28-23.43.48:990][ 97]LogNet: IpConnection_13 setting maximum channels to: 32767
+[2023.09.28-23.43.48:991][ 97]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.43.48:991][ 97]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:43:48, [UNetConnection] RemoteAddr: 127.0.0.1:52751, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.43.48:991][ 97]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52751, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.43.48:992][ 97]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.43.49:034][ 98]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.43.49:034][ 98]LogNet: Remote platform little endian=1
+[2023.09.28-23.43.49:034][ 98]LogNet: This platform little endian=1
+[2023.09.28-23.43.49:036][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.28-23.43.49:080][ 99]LogNet: Login request: ?Name=MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385 userId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385 platform: NULL
+[2023.09.28-23.43.49:081][ 99]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.43.49:081][ 99]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.43.49:081][ 99]LogWorld: BeginTearingDown for /Temp/Untitled_7
+[2023.09.28-23.43.49:081][ 99]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.43.49:081][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.43.49:093][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.43.49:127][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.28-23.43.49:156][ 99]LogAudio: Display: Audio Device (ID: 15) registered with world 'MAP_Main'.
+[2023.09.28-23.43.49:156][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.43.49:156][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.43.49:157][ 99]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2023.09.28-23.43.49:166][ 99]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.43.49
+[2023.09.28-23.43.49:166][ 99]LogWorld: Bringing up level for play took: 0.008033
+[2023.09.28-23.43.49:166][ 99]LogLoad: Took 0.084280 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.43.49:220][100]LogNet: Client netspeed is 100000
+[2023.09.28-23.43.49:220][100]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385?SplitscreenCount=1
+[2023.09.28-23.43.49:222][100]LogNet: Join succeeded: MontorPC-5CDBF3474AE
+[2023.09.28-23.44.30:910][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.44.30:910][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.44.30:910][934]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.44.30:957][934]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.44.30:959][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.44.30:959][934]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2023.09.28-23.44.30:959][934]LogNet: DestroyNamedNetDriver IpNetDriver_13 [GameNetDriver]
+[2023.09.28-23.44.30:959][934]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385, Channels: 11, Time: 2023.09.28-23.44.30
+[2023.09.28-23.44.30:959][934]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385
+[2023.09.28-23.44.30:959][934]LogExit: GameNetDriver IpNetDriver_13 shut down
+[2023.09.28-23.44.30:962][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.44.30:962][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.44.30:963][934]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.44.30:969][934]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.44.30:971][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.44.30:971][934]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2023.09.28-23.44.30:972][934]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2023.09.28-23.44.30:972][934]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.44.30:972][934]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.44.30:972][934]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52751, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385
+[2023.09.28-23.44.30:972][934]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52751, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385, Channels: 11, Time: 2023.09.28-23.44.30
+[2023.09.28-23.44.30:972][934]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.44.30:972][934]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.44.30:972][934]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52751, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-5CDBF3474AE5E23BE43ABE986E2DD385
+[2023.09.28-23.44.30:972][934]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2023.09.28-23.44.30:974][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.44.30:980][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.44.30:995][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.44.30:996][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.28-23.44.30:996][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.28-23.44.30:999][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.28-23.44.31:005][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.28-23.44.31:005][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.28-23.44.31:007][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.28-23.44.31:022][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.09.28-23.44.31:131][935]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.28-23.44.31:131][935]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.09.28-23.44.50:750][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.44.50:950][128]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AnimBP_Player
+[2023.09.28-23.44.50:950][128]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_Player00B5DCFD4802CB1F8DA5DD937009A9EB.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Animations/AnimBP_Player.uasset'
+[2023.09.28-23.44.50:983][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 1.07 sec)
+[2023.09.28-23.44.50:987][128]AssetCheck: New page: Asset Save: AnimBP_Player
+[2023.09.28-23.44.50:987][128]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
+[2023.09.28-23.44.51:226][133]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.44.51:257][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.09.28-23.44.53:369][203]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.44.53:375][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-23.44.53:375][203]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:44:53)
+[2023.09.28-23.44.53:375][203]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.44.53:395][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019022s)
+[2023.09.28-23.44.53:395][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.019058s)
+[2023.09.28-23.44.53:409][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.28-23.44.53:411][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.44.53:411][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.44.53:412][203]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.44.53:412][203]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2023.09.28-23.44.53:413][203]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.44.53:413][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.44.53:413][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.44.53:413][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.44.53:413][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.44.53:413][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.44.53:415][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.44.53:434][203]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.44.53:435][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.44.53:435][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.44.53:435][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.44.53:435][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.28-23.44.53:435][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.28-23.44.53:437][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.28-23.44.53:437][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.28-23.44.53:437][203]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.28-23.44.53:437][203]LogAudio: Display: Audio Device (ID: 16) registered with world 'MAP_Main'.
+[2023.09.28-23.44.53:437][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.28-23.44.53:461][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.44.53:461][203]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.44.53:470][203]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.44.53
+[2023.09.28-23.44.53:472][203]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.09.28-23.44.53:473][203]LogWorld: Bringing up level for play took: 0.011816
+[2023.09.28-23.44.53:475][203]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.44.53:475][203]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.44.53:475][203]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.44.53:475][203]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.44.53:475][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.44.53:475][203]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 17777
+[2023.09.28-23.44.53:479][203]PIE: Server logged in
+[2023.09.28-23.44.53:482][203]PIE: Play in editor total start time 0,107 seconds.
+[2023.09.28-23.44.53:482][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.44.53:483][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.44.53:483][203]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.09.28-23.44.53:483][203]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.44.53:483][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.44.53:483][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.44.53:484][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.44.53:484][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.44.53:484][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.44.53:486][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.44.53:507][203]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.44.53:507][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.44.53:507][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.44.53:507][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.44.53:509][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.09.28-23.44.53:509][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.09.28-23.44.53:510][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.09.28-23.44.53:510][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.09.28-23.44.53:510][203]LogInit: FAudioDevice initialized with ID 17.
+[2023.09.28-23.44.53:510][203]LogAudio: Display: Audio Device (ID: 17) registered with world 'Untitled'.
+[2023.09.28-23.44.53:510][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.28-23.44.53:539][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.44.53:539][203]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.44.53:539][203]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.44.53:539][203]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.44.53:540][203]LogNet: IpConnection_14 setting maximum channels to: 32767
+[2023.09.28-23.44.53:540][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.44.53:541][203]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2023.09.28-23.44.53:541][203]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.44.53:545][203]PIE: Client logged in
+[2023.09.28-23.44.53:549][203]PIE: Play in editor total start time 0,174 seconds.
+[2023.09.28-23.44.53:661][203]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.44.53:666][203]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.44.54:596][223]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57828
+[2023.09.28-23.44.54:596][223]LogHandshake: SendConnectChallenge. Timestamp: 1.259488, Cookie: 245231024182155076136200196049072162112017119248075255048093
+[2023.09.28-23.44.54:597][223]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.44.54:597][223]LogHandshake: SendChallengeResponse. Timestamp: 1.259488, Cookie: 245231024182155076136200196049072162112017119248075255048093
+[2023.09.28-23.44.54:639][224]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57828
+[2023.09.28-23.44.54:639][224]LogHandshake: SendChallengeAck. InCookie: 245231024182155076136200196049072162112017119248075255048093
+[2023.09.28-23.44.54:639][224]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57828
+[2023.09.28-23.44.54:639][224]LogNet: IpConnection_15 setting maximum channels to: 32767
+[2023.09.28-23.44.54:640][224]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.44.54:640][224]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:44:54, [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.44.54:640][224]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.44.54:641][224]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: PendingNetDriver IpNetDriver_15, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.44.54:682][225]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.44.54:682][225]LogNet: Remote platform little endian=1
+[2023.09.28-23.44.54:682][225]LogNet: This platform little endian=1
+[2023.09.28-23.44.54:685][225]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.09.28-23.44.54:727][226]LogNet: Login request: ?Name=MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB userId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB platform: NULL
+[2023.09.28-23.44.54:728][226]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.44.54:728][226]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.44.54:728][226]LogWorld: BeginTearingDown for /Temp/Untitled_8
+[2023.09.28-23.44.54:728][226]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.44.54:728][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.44.54:736][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.44.54:772][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.28-23.44.54:800][226]LogAudio: Display: Audio Device (ID: 17) registered with world 'MAP_Main'.
+[2023.09.28-23.44.54:800][226]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.44.54:800][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.44.54:801][226]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.09.28-23.44.54:807][226]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.44.54
+[2023.09.28-23.44.54:807][226]LogWorld: Bringing up level for play took: 0.006876
+[2023.09.28-23.44.54:809][226]LogLoad: Took 0.081029 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.44.54:857][227]LogNet: Client netspeed is 100000
+[2023.09.28-23.44.54:857][227]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB?SplitscreenCount=1
+[2023.09.28-23.44.54:859][227]LogNet: Join succeeded: MontorPC-155D2A994AB
+[2023.09.28-23.45.01:070][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.45.01:070][350]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.45.01:071][350]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.45.01:101][350]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.45.01:102][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.45.01:103][350]LogNet: World NetDriver shutdown IpNetDriver_15 [GameNetDriver]
+[2023.09.28-23.45.01:103][350]LogNet: DestroyNamedNetDriver IpNetDriver_15 [GameNetDriver]
+[2023.09.28-23.45.01:103][350]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB, Channels: 11, Time: 2023.09.28-23.45.01
+[2023.09.28-23.45.01:103][350]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB
+[2023.09.28-23.45.01:103][350]LogExit: GameNetDriver IpNetDriver_15 shut down
+[2023.09.28-23.45.01:105][350]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.45.01:105][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.45.01:105][350]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.45.01:113][350]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.45.01:114][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.45.01:115][350]LogNet: World NetDriver shutdown IpNetDriver_14 [GameNetDriver]
+[2023.09.28-23.45.01:115][350]LogNet: DestroyNamedNetDriver IpNetDriver_14 [GameNetDriver]
+[2023.09.28-23.45.01:115][350]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.45.01:115][350]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.45.01:116][350]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB
+[2023.09.28-23.45.01:116][350]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB, Channels: 11, Time: 2023.09.28-23.45.01
+[2023.09.28-23.45.01:116][350]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.45.01:116][350]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.45.01:116][350]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57828, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-155D2A994ABEC6747C0FD9A5F292B2AB
+[2023.09.28-23.45.01:116][350]LogExit: GameNetDriver IpNetDriver_14 shut down
+[2023.09.28-23.45.01:118][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.45.01:122][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.45.01:137][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.45.01:139][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.09.28-23.45.01:139][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.28-23.45.01:142][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.09.28-23.45.01:148][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.28-23.45.01:148][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.28-23.45.01:149][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.28-23.45.01:162][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.28-23.45.01:280][351]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.09.28-23.45.01:280][351]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.28-23.45.15:628][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.45.15:735][744]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AnimBP_Player
+[2023.09.28-23.45.15:736][744]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_Player0D5C9987437270DD604637ABCBF98B90.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Animations/AnimBP_Player.uasset'
+[2023.09.28-23.45.15:767][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.21 sec)
+[2023.09.28-23.45.15:770][744]AssetCheck: New page: Asset Save: AnimBP_Player
+[2023.09.28-23.45.15:770][744]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
+[2023.09.28-23.45.16:085][755]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.45.16:119][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.09.28-23.45.17:940][818]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.45.17:947][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-23.45.17:947][818]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:45:17)
+[2023.09.28-23.45.17:947][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.45.17:967][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020358s)
+[2023.09.28-23.45.17:967][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.020394s)
+[2023.09.28-23.45.17:979][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.28-23.45.17:981][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.45.17:981][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.45.17:982][818]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.45.17:982][818]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2023.09.28-23.45.17:982][818]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.45.17:982][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.45.17:982][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.45.17:983][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.45.17:983][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.45.17:983][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.45.17:986][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.45.18:002][818]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.45.18:002][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.45.18:002][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.45.18:002][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.45.18:003][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.09.28-23.45.18:003][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.09.28-23.45.18:005][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.09.28-23.45.18:005][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.09.28-23.45.18:005][818]LogInit: FAudioDevice initialized with ID 18.
+[2023.09.28-23.45.18:005][818]LogAudio: Display: Audio Device (ID: 18) registered with world 'MAP_Main'.
+[2023.09.28-23.45.18:005][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.09.28-23.45.18:028][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.45.18:028][818]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.45.18:038][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.45.18
+[2023.09.28-23.45.18:040][818]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.09.28-23.45.18:041][818]LogWorld: Bringing up level for play took: 0.012259
+[2023.09.28-23.45.18:043][818]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.45.18:043][818]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.45.18:043][818]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.45.18:043][818]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.45.18:043][818]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.45.18:043][818]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 17777
+[2023.09.28-23.45.18:048][818]PIE: Server logged in
+[2023.09.28-23.45.18:052][818]PIE: Play in editor total start time 0,104 seconds.
+[2023.09.28-23.45.18:052][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.45.18:052][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.45.18:053][818]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2023.09.28-23.45.18:053][818]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.45.18:053][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.45.18:053][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.45.18:054][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.45.18:054][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.45.18:054][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.45.18:056][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.45.18:077][818]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.45.18:077][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.45.18:077][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.45.18:077][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.45.18:079][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.09.28-23.45.18:079][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.09.28-23.45.18:081][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.09.28-23.45.18:081][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.09.28-23.45.18:081][818]LogInit: FAudioDevice initialized with ID 19.
+[2023.09.28-23.45.18:081][818]LogAudio: Display: Audio Device (ID: 19) registered with world 'Untitled'.
+[2023.09.28-23.45.18:081][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.09.28-23.45.18:114][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.45.18:114][818]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.45.18:114][818]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.45.18:114][818]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.45.18:114][818]LogNet: IpConnection_16 setting maximum channels to: 32767
+[2023.09.28-23.45.18:114][818]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.45.18:116][818]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 6
+[2023.09.28-23.45.18:116][818]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.45.18:122][818]PIE: Client logged in
+[2023.09.28-23.45.18:128][818]PIE: Play in editor total start time 0,181 seconds.
+[2023.09.28-23.45.18:267][818]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.45.18:274][818]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.45.19:205][837]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2023.09.28-23.45.19:205][837]LogHandshake: SendConnectChallenge. Timestamp: 1.296845, Cookie: 148181154023254003221127018214165093053191182022170090043079
+[2023.09.28-23.45.19:206][837]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.45.19:206][837]LogHandshake: SendChallengeResponse. Timestamp: 1.296845, Cookie: 148181154023254003221127018214165093053191182022170090043079
+[2023.09.28-23.45.19:251][838]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2023.09.28-23.45.19:251][838]LogHandshake: SendChallengeAck. InCookie: 148181154023254003221127018214165093053191182022170090043079
+[2023.09.28-23.45.19:251][838]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57560
+[2023.09.28-23.45.19:251][838]LogNet: IpConnection_17 setting maximum channels to: 32767
+[2023.09.28-23.45.19:251][838]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.45.19:252][838]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:45:19, [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.45.19:252][838]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.45.19:253][838]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.45.19:297][839]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.45.19:297][839]LogNet: Remote platform little endian=1
+[2023.09.28-23.45.19:297][839]LogNet: This platform little endian=1
+[2023.09.28-23.45.19:300][839]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.09.28-23.45.19:341][840]LogNet: Login request: ?Name=MontorPC-B7F1E9934791F3799DDB41B74490DE24 userId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24 platform: NULL
+[2023.09.28-23.45.19:342][840]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.45.19:342][840]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.45.19:342][840]LogWorld: BeginTearingDown for /Temp/Untitled_9
+[2023.09.28-23.45.19:342][840]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.45.19:342][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.45.19:352][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.45.19:390][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.28-23.45.19:422][840]LogAudio: Display: Audio Device (ID: 19) registered with world 'MAP_Main'.
+[2023.09.28-23.45.19:422][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.45.19:422][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.45.19:423][840]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.09.28-23.45.19:432][840]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.45.19
+[2023.09.28-23.45.19:432][840]LogWorld: Bringing up level for play took: 0.008585
+[2023.09.28-23.45.19:432][840]LogLoad: Took 0.089854 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.45.19:494][841]LogNet: Client netspeed is 100000
+[2023.09.28-23.45.19:494][841]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-B7F1E9934791F3799DDB41B74490DE24?SplitscreenCount=1
+[2023.09.28-23.45.19:497][841]LogNet: Join succeeded: MontorPC-B7F1E993479
+[2023.09.28-23.46.42:030][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.46.42:030][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.46.42:031][510]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.46.42:066][510]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.46.42:067][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.46.42:068][510]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2023.09.28-23.46.42:068][510]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2023.09.28-23.46.42:068][510]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24, Channels: 11, Time: 2023.09.28-23.46.42
+[2023.09.28-23.46.42:068][510]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24
+[2023.09.28-23.46.42:068][510]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2023.09.28-23.46.42:070][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.46.42:071][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.46.42:071][510]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.46.42:076][510]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.46.42:078][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.46.42:078][510]LogNet: World NetDriver shutdown IpNetDriver_16 [GameNetDriver]
+[2023.09.28-23.46.42:078][510]LogNet: DestroyNamedNetDriver IpNetDriver_16 [GameNetDriver]
+[2023.09.28-23.46.42:078][510]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.46.42:078][510]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.46.42:078][510]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24
+[2023.09.28-23.46.42:080][510]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24, Channels: 11, Time: 2023.09.28-23.46.42
+[2023.09.28-23.46.42:080][510]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.46.42:080][510]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.46.42:080][510]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-B7F1E9934791F3799DDB41B74490DE24
+[2023.09.28-23.46.42:080][510]LogExit: GameNetDriver IpNetDriver_16 shut down
+[2023.09.28-23.46.42:082][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.46.42:086][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.46.42:098][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.46.42:098][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.09.28-23.46.42:098][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.09.28-23.46.42:101][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.09.28-23.46.42:106][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.09.28-23.46.42:106][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.09.28-23.46.42:108][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.09.28-23.46.42:122][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.28-23.46.42:221][511]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.09.28-23.46.42:221][511]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.09.28-23.48.16:361][716]BlueprintLog: New page: Compile AnimBP_Player
+[2023.09.28-23.48.16:404][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.28-23.48.23:511][960]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.28-23.48.23:518][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-23.48.23:518][960]PIE: New page: PIE session: MAP_Main (28 sep. 2023 15:48:23)
+[2023.09.28-23.48.23:518][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.48.23:539][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021433s)
+[2023.09.28-23.48.23:539][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.021475s)
+[2023.09.28-23.48.23:553][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.09.28-23.48.23:556][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.48.23:556][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.48.23:558][960]LogAIModule: Creating AISystem for world MAP_Main
+[2023.09.28-23.48.23:558][960]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2023.09.28-23.48.23:558][960]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.48.23:558][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.48.23:558][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.48.23:558][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.48.23:558][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.48.23:558][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.48.23:561][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.48.23:583][960]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.48.23:583][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.48.23:583][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.48.23:583][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.48.23:584][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.09.28-23.48.23:584][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.09.28-23.48.23:586][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.09.28-23.48.23:586][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.09.28-23.48.23:586][960]LogInit: FAudioDevice initialized with ID 20.
+[2023.09.28-23.48.23:586][960]LogAudio: Display: Audio Device (ID: 20) registered with world 'MAP_Main'.
+[2023.09.28-23.48.23:586][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.09.28-23.48.23:617][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.48.23:617][960]LogLoad: Game class is 'GM_FPS_C'
+[2023.09.28-23.48.23:627][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.48.23
+[2023.09.28-23.48.23:629][960]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.09.28-23.48.23:630][960]LogWorld: Bringing up level for play took: 0.012860
+[2023.09.28-23.48.23:632][960]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.09.28-23.48.23:632][960]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.09.28-23.48.23:632][960]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.09.28-23.48.23:632][960]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.09.28-23.48.23:632][960]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.48.23:632][960]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2023.09.28-23.48.23:637][960]PIE: Server logged in
+[2023.09.28-23.48.23:640][960]PIE: Play in editor total start time 0,123 seconds.
+[2023.09.28-23.48.23:641][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.48.23:641][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.48.23:641][960]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2023.09.28-23.48.23:641][960]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.28-23.48.23:641][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.28-23.48.23:641][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-23.48.23:642][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-23.48.23:642][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-23.48.23:642][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-23.48.23:644][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-23.48.23:661][960]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG401QR (NVIDIA High Definition Audio)
+[2023.09.28-23.48.23:661][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-23.48.23:661][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-23.48.23:661][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-23.48.23:662][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.09.28-23.48.23:662][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.09.28-23.48.23:665][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.09.28-23.48.23:665][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.09.28-23.48.23:665][960]LogInit: FAudioDevice initialized with ID 21.
+[2023.09.28-23.48.23:665][960]LogAudio: Display: Audio Device (ID: 21) registered with world 'Untitled'.
+[2023.09.28-23.48.23:665][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.28-23.48.23:694][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.48.23:694][960]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.09.28-23.48.23:694][960]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.09.28-23.48.23:694][960]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.09.28-23.48.23:694][960]LogNet: IpConnection_18 setting maximum channels to: 32767
+[2023.09.28-23.48.23:694][960]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.48.23:695][960]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2023.09.28-23.48.23:695][960]LogNet: Game client on port 17777, rate 100000
+[2023.09.28-23.48.23:699][960]PIE: Client logged in
+[2023.09.28-23.48.23:705][960]PIE: Play in editor total start time 0,187 seconds.
+[2023.09.28-23.48.23:829][960]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.09.28-23.48.23:834][960]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.09.28-23.48.24:752][979]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56764
+[2023.09.28-23.48.24:752][979]LogHandshake: SendConnectChallenge. Timestamp: 1.272822, Cookie: 133142220122095091060046073116027043174167030159028066005207
+[2023.09.28-23.48.24:753][979]LogHandshake: Cached server SessionID: 0
+[2023.09.28-23.48.24:753][979]LogHandshake: SendChallengeResponse. Timestamp: 1.272822, Cookie: 133142220122095091060046073116027043174167030159028066005207
+[2023.09.28-23.48.24:801][980]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56764
+[2023.09.28-23.48.24:802][980]LogHandshake: SendChallengeAck. InCookie: 133142220122095091060046073116027043174167030159028066005207
+[2023.09.28-23.48.24:802][980]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56764
+[2023.09.28-23.48.24:802][980]LogNet: IpConnection_19 setting maximum channels to: 32767
+[2023.09.28-23.48.24:802][980]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.09.28-23.48.24:802][980]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 09/28/23 19:48:24, [UNetConnection] RemoteAddr: 127.0.0.1:56764, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.48.24:802][980]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56764, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.48.24:804][980]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: PendingNetDriver IpNetDriver_19, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.09.28-23.48.24:846][981]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.09.28-23.48.24:846][981]LogNet: Remote platform little endian=1
+[2023.09.28-23.48.24:846][981]LogNet: This platform little endian=1
+[2023.09.28-23.48.24:850][981]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.09.28-23.48.24:893][982]LogNet: Login request: ?Name=MontorPC-EE9770C741F41DBD47BF42AB81A17F1D userId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D platform: NULL
+[2023.09.28-23.48.24:894][982]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.09.28-23.48.24:894][982]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.09.28-23.48.24:894][982]LogWorld: BeginTearingDown for /Temp/Untitled_10
+[2023.09.28-23.48.24:894][982]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.48.24:894][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.48.24:905][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.48.24:941][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.28-23.48.24:967][982]LogAudio: Display: Audio Device (ID: 21) registered with world 'MAP_Main'.
+[2023.09.28-23.48.24:968][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-23.48.24:968][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-23.48.24:968][982]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2023.09.28-23.48.24:975][982]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.09.28-19.48.24
+[2023.09.28-23.48.24:975][982]LogWorld: Bringing up level for play took: 0.006679
+[2023.09.28-23.48.24:975][982]LogLoad: Took 0.081455 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.09.28-23.48.25:032][983]LogNet: Client netspeed is 100000
+[2023.09.28-23.48.25:032][983]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-EE9770C741F41DBD47BF42AB81A17F1D?SplitscreenCount=1
+[2023.09.28-23.48.25:034][983]LogNet: Join succeeded: MontorPC-EE9770C741F
+[2023.09.28-23.48.40:502][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.48.40:502][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.09.28-23.48.40:502][284]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.48.40:542][284]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.48.40:544][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.48.40:544][284]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2023.09.28-23.48.40:544][284]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2023.09.28-23.48.40:544][284]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D, Channels: 11, Time: 2023.09.28-23.48.40
+[2023.09.28-23.48.40:544][284]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D
+[2023.09.28-23.48.40:544][284]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2023.09.28-23.48.40:546][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.09.28-23.48.40:547][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-23.48.40:547][284]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.28-23.48.40:554][284]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-23.48.40:556][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.48.40:557][284]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2023.09.28-23.48.40:557][284]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2023.09.28-23.48.40:557][284]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.48.40:557][284]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.09.28-23.48.40:557][284]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56764, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D
+[2023.09.28-23.48.40:557][284]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56764, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D, Channels: 11, Time: 2023.09.28-23.48.40
+[2023.09.28-23.48.40:557][284]LogNet: UNetConnection::SendCloseReason:
+[2023.09.28-23.48.40:557][284]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.09.28-23.48.40:557][284]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56764, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-EE9770C741F41DBD47BF42AB81A17F1D
+[2023.09.28-23.48.40:558][284]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2023.09.28-23.48.40:560][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-23.48.40:567][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-23.48.40:582][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-23.48.40:583][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.28-23.48.40:583][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.28-23.48.40:585][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.28-23.48.40:592][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.09.28-23.48.40:592][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.09.28-23.48.40:594][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.09.28-23.48.40:609][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.09.28-23.48.40:735][285]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.09.28-23.48.40:735][285]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.09.28-23.50.01:007][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.09.28-23.50.01:010][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.017
+[2023.09.28-23.50.01:010][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/Animations/AnimBP_Player] ([2] browsable assets)...
+[2023.09.28-23.50.01:106][709]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player]
+[2023.09.28-23.50.01:106][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/AnimBP_Player]
+[2023.09.28-23.50.01:137][709]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto4
+[2023.09.28-23.50.01:138][709]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_Player_Auto46CAAFC6D4E506D7CC5C700A37362C6F5.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/Autosaves/Game/Blueprints/Player/Animations/AnimBP_Player_Auto4.uasset'
+[2023.09.28-23.50.01:138][709]LogFileHelpers: Auto-saving content packages took 0.129
+[2023.09.28-23.51.23:540][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-23.51.23:615][ 13]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AnimBP_Player
+[2023.09.28-23.51.23:617][ 13]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/AnimBP_PlayerF58E523C45556BB2DFCA3C901311624A.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/Animations/AnimBP_Player.uasset'
+[2023.09.28-23.51.23:648][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.32 sec)
+[2023.09.28-23.51.23:651][ 13]AssetCheck: New page: Asset Save: AnimBP_Player
+[2023.09.28-23.51.23:651][ 13]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
+[2023.09.28-23.51.26:174][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
