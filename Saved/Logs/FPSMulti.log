@@ -1674,3 +1674,567 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-00.16.08:656][ 74]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_UA.AO_Crouch_UA
 [2023.10.03-00.16.13:117][257]Cmd: SELECT NONE
 [2023.10.03-00.16.29:401][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.03-00.17.20:783][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
+[2023.10.03-00.17.20:789][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.17.20:789][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-00.17.20:812][493]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.10.03-00.17.22:478][493]LogSlate: Took 0.004343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.03-00.17.22:700][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: ================================================
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: RAM used: 490,18 KiB of 1,60 GiB budget. Usage: 0.03%
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.03-00.17.22:737][494]LogShaderCompilers: Display: ================================================
+[2023.10.03-00.17.22:760][494]LogSlate: Took 0.004652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.03-00.17.44:035][124]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.17.44:102][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.03-00.18.30:603][996]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.18.30:654][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.03-00.18.43:455][254]LogSlate: Took 0.003946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.03-00.18.51:215][372]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.18.51:265][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.03-00.19.09:027][ 46]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.19.09:082][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.03-00.19.20:891][325]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.19.20:948][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.03-00.20.50:996][755]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.20.51:050][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.03-00.21.03:074][424]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.03-00.21.03:087][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-00.21.03:090][424]PIE: New page: PIE session: MAP_Main (2 oct. 2023 16:21:03)
+[2023.10.03-00.21.03:103][424]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.03-00.21.03:104][424]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.10.03-00.21.03:105][424]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2023.10.03-00.21.03:126][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021086s)
+[2023.10.03-00.21.03:126][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.021210s)
+[2023.10.03-00.21.03:136][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.03-00.21.03:138][424]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.21.03:140][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-00.21.03:140][424]LogAIModule: Creating AISystem for world MAP_Main
+[2023.10.03-00.21.03:141][424]LogPlayLevel: PIE: World Init took: (0.001972s)
+[2023.10.03-00.21.03:141][424]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-00.21.03:141][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-00.21.03:141][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-00.21.03:141][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-00.21.03:141][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-00.21.03:141][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-00.21.03:143][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-00.21.03:168][424]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.03-00.21.03:169][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-00.21.03:169][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-00.21.03:169][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-00.21.03:169][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.03-00.21.03:169][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.03-00.21.03:172][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.03-00.21.03:172][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.03-00.21.03:172][424]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.03-00.21.03:172][424]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Main'.
+[2023.10.03-00.21.03:172][424]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-00.21.03:196][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-00.21.03:197][424]LogLoad: Game class is 'GM_FPS_C'
+[2023.10.03-00.21.03:207][424]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.10.02-20.21.03
+[2023.10.03-00.21.03:210][424]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.03-00.21.03:211][424]LogWorld: Bringing up level for play took: 0.014078
+[2023.10.03-00.21.03:224][424]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.10.03-00.21.03:224][424]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.10.03-00.21.03:224][424]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.10.03-00.21.03:224][424]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.10.03-00.21.03:225][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.10.03-00.21.03:225][424]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2023.10.03-00.21.03:237][424]PIE: Server logged in
+[2023.10.03-00.21.03:239][424]PIE: Play in editor total start time 0,153 seconds.
+[2023.10.03-00.21.03:240][424]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.21.03:240][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-00.21.03:240][424]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2023.10.03-00.21.03:240][424]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-00.21.03:240][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-00.21.03:240][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-00.21.03:241][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-00.21.03:241][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-00.21.03:241][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-00.21.03:243][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-00.21.03:261][424]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.03-00.21.03:261][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-00.21.03:261][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-00.21.03:261][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-00.21.03:263][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.03-00.21.03:263][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.03-00.21.03:264][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.03-00.21.03:264][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.03-00.21.03:264][424]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.03-00.21.03:264][424]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2023.10.03-00.21.03:264][424]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-00.21.03:294][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-00.21.03:295][424]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2023.10.03-00.21.03:295][424]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.10.03-00.21.03:295][424]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.10.03-00.21.03:295][424]LogNet: IpConnection_0 setting maximum channels to: 32767
+[2023.10.03-00.21.03:295][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.10.03-00.21.03:305][424]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 1
+[2023.10.03-00.21.03:305][424]LogNet: Game client on port 17777, rate 100000
+[2023.10.03-00.21.03:306][424]LogNetVersion: FPSMulti 1.0.0.0, NetCL: 26909020, EngineNetworkVersion: 32, GameNetworkVersion: 0 (Checksum: 2969484090)
+[2023.10.03-00.21.03:309][424]PIE: Client logged in
+[2023.10.03-00.21.03:313][424]PIE: Play in editor total start time 0,227 seconds.
+[2023.10.03-00.21.03:504][424]LogViewport: Scene viewport resized to 853x480, mode Windowed.
+[2023.10.03-00.21.03:508][424]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: ================================================
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: Total job queries 26, among them cache hits 2 (7.69%)
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 18 distinct outputs (75.00%)
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: RAM used: 587,22 KiB of 1,60 GiB budget. Usage: 0.04%
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.03-00.21.03:594][425]LogShaderCompilers: Display: ================================================
+[2023.10.03-00.21.04:343][445]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55032
+[2023.10.03-00.21.04:343][445]LogHandshake: SendConnectChallenge. Timestamp: 1.274508, Cookie: 128028051231149131022023169185190021232103164146183179229073
+[2023.10.03-00.21.04:344][445]LogHandshake: Cached server SessionID: 0
+[2023.10.03-00.21.04:344][445]LogHandshake: SendChallengeResponse. Timestamp: 1.274508, Cookie: 128028051231149131022023169185190021232103164146183179229073
+[2023.10.03-00.21.04:376][446]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55032
+[2023.10.03-00.21.04:376][446]LogHandshake: SendChallengeAck. InCookie: 128028051231149131022023169185190021232103164146183179229073
+[2023.10.03-00.21.04:376][446]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55032
+[2023.10.03-00.21.04:377][446]LogNet: IpConnection_1 setting maximum channels to: 32767
+[2023.10.03-00.21.04:377][446]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.10.03-00.21.04:377][446]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 10/02/23 20:21:04, [UNetConnection] RemoteAddr: 127.0.0.1:55032, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.10.03-00.21.04:377][446]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55032, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.10.03-00.21.04:378][446]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.10.03-00.21.04:411][447]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2023.10.03-00.21.04:411][447]LogNet: Remote platform little endian=1
+[2023.10.03-00.21.04:411][447]LogNet: This platform little endian=1
+[2023.10.03-00.21.04:411][447]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.04:414][447]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.03-00.21.04:445][448]LogNet: Login request: ?Name=MontorPC-2F612F26423CAB487FD17383CF9A4D44 userId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44 platform: NULL
+[2023.10.03-00.21.04:445][448]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.04:446][448]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_FPS.GM_FPS_C)
+[2023.10.03-00.21.04:446][448]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_FPS.GM_FPS_C
+[2023.10.03-00.21.04:446][448]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2023.10.03-00.21.04:446][448]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-00.21.04:446][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-00.21.04:455][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-00.21.04:457][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.10.03-00.21.04:478][448]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Main'.
+[2023.10.03-00.21.04:478][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.21.04:478][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-00.21.04:479][448]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2023.10.03-00.21.04:486][448]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2023.10.02-20.21.04
+[2023.10.03-00.21.04:486][448]LogWorld: Bringing up level for play took: 0.007201
+[2023.10.03-00.21.04:486][448]LogLoad: Took 0.040518 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2023.10.03-00.21.04:676][449]LogNet: Client netspeed is 100000
+[2023.10.03-00.21.04:676][449]LogNet: Join request: /Game/Maps/MAP_Main?Name=MontorPC-2F612F26423CAB487FD17383CF9A4D44?SplitscreenCount=1
+[2023.10.03-00.21.04:684][449]LogNet: Join succeeded: MontorPC-2F612F26423
+[2023.10.03-00.21.04:684][449]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.04:946][450]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.04:992][451]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:032][452]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:070][453]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:111][454]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:148][455]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:188][456]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:224][457]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:258][458]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:293][459]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:332][460]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:366][461]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:400][462]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:436][463]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:454][464]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:474][465]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:510][466]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:547][467]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:582][468]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:617][469]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:654][470]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:690][471]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:726][472]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:762][473]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:797][474]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:835][475]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:868][476]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:903][477]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:938][478]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.05:974][479]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:008][480]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:042][481]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:077][482]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:113][483]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:148][484]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:253][487]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:290][488]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:325][489]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:361][490]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:396][491]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:430][492]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:465][493]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:501][494]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:535][495]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:571][496]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:605][497]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:640][498]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:674][499]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:709][500]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:743][501]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:778][502]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:812][503]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:848][504]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:883][505]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.06:918][506]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:174][513]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:209][514]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:244][515]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:350][518]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:457][521]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.07:528][523]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Server: Hello
+[2023.10.03-00.21.08:501][550]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:537][551]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:574][552]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:611][553]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:647][554]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:684][555]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:721][556]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:757][557]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:795][558]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:830][559]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:867][560]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:903][561]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:938][562]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.08:975][563]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:010][564]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:048][565]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:083][566]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:124][567]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:163][568]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:204][569]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:241][570]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:277][571]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:317][572]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:353][573]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:390][574]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:426][575]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:464][576]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:502][577]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:540][578]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:578][579]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:615][580]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:651][581]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:688][582]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:724][583]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:761][584]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:798][585]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:835][586]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:870][587]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:905][588]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:943][589]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.09:979][590]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:015][591]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:050][592]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:084][593]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:118][594]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:154][595]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:191][596]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:227][597]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:263][598]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:301][599]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:336][600]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:373][601]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:409][602]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:448][603]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:483][604]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:518][605]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:556][606]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:592][607]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:629][608]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:665][609]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:702][610]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:739][611]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:775][612]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:812][613]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:851][614]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:888][615]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:925][616]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:961][617]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.10:998][618]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:033][619]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:071][620]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:107][621]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:143][622]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:184][623]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:220][624]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:258][625]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:295][626]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:331][627]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:368][628]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:403][629]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:447][630]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:479][631]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:515][632]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:552][633]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:626][635]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:662][636]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:698][637]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:734][638]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:770][639]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:809][640]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:848][641]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:885][642]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:922][643]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:958][644]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.11:994][645]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:028][646]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:066][647]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:105][648]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:143][649]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:177][650]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:504][659]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:542][660]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:577][661]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:613][662]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:648][663]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:757][666]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:829][668]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:864][669]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:900][670]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:937][671]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.12:973][672]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:008][673]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:045][674]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:080][675]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:117][676]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:153][677]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:441][685]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:477][686]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:515][687]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:551][688]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:586][689]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:621][690]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:660][691]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:696][692]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:732][693]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:769][694]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:806][695]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:914][698]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:951][699]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.13:985][700]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:020][701]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:090][703]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:125][704]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:168][705]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:198][706]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:234][707]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:270][708]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:306][709]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:343][710]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:378][711]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:417][712]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:456][713]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:494][714]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:530][715]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:565][716]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:603][717]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:641][718]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:675][719]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:712][720]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:750][721]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:784][722]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:821][723]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:859][724]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:893][725]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:928][726]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:963][727]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.14:999][728]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:034][729]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:072][730]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:107][731]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:143][732]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:180][733]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:250][735]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:288][736]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:323][737]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:360][738]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:395][739]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:508][742]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:546][743]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:651][746]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:688][747]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:792][750]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:827][751]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:863][752]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:896][753]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:932][754]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.15:967][755]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:003][756]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:041][757]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:076][758]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:111][759]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:148][760]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:220][762]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:437][768]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:473][769]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:508][770]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:543][771]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:687][775]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:722][776]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:757][777]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:796][778]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:830][779]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.16:867][780]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.17:435][796]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:178][817]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:214][818]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:250][819]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:288][820]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:323][821]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:360][822]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:395][823]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:432][824]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.18:467][825]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:312][877]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:347][878]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:383][879]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:422][880]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:457][881]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:494][882]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:532][883]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:569][884]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:604][885]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:641][886]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:677][887]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:714][888]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:750][889]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:786][890]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:823][891]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:859][892]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:893][893]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:930][894]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.20:966][895]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:005][896]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:042][897]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:080][898]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:116][899]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:190][901]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:228][902]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:263][903]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:299][904]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:335][905]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:372][906]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:410][907]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:446][908]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:484][909]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:521][910]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:558][911]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:592][912]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:628][913]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:663][914]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:699][915]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:737][916]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:772][917]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:809][918]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:846][919]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:884][920]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:954][922]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.21:990][923]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:024][924]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:059][925]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:096][926]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:341][933]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:910][949]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:947][950]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.22:982][951]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:018][952]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:053][953]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:088][954]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:126][955]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:161][956]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:196][957]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:336][961]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:371][962]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:406][963]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:441][964]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:475][965]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:510][966]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:544][967]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:580][968]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:616][969]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:651][970]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:900][977]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:936][978]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.23:972][979]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.24:361][990]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.24:396][991]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.24:431][992]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.24:466][993]LogBlueprintUserMessages: [BP_PLayerBase_C_0] Client 0: Hello
+[2023.10.03-00.21.25:471][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-00.21.25:471][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2023.10.03-00.21.25:472][ 20]LogSlate: Window 'FPSMulti Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.03-00.21.25:492][ 20]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-00.21.25:494][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-00.21.25:494][ 20]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2023.10.03-00.21.25:494][ 20]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2023.10.03-00.21.25:494][ 20]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44, Channels: 11, Time: 2023.10.03-00.21.25
+[2023.10.03-00.21.25:495][ 20]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_FPS_C_0, Owner: PC_FPS_C_0, UniqueId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44
+[2023.10.03-00.21.25:498][ 20]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2023.10.03-00.21.25:503][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2023.10.03-00.21.25:504][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-00.21.25:504][ 20]LogSlate: Window 'FPSMulti Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.03-00.21.25:510][ 20]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-00.21.25:511][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-00.21.25:512][ 20]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2023.10.03-00.21.25:512][ 20]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2023.10.03-00.21.25:512][ 20]LogNet: UNetConnection::SendCloseReason:
+[2023.10.03-00.21.25:512][ 20]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2023.10.03-00.21.25:512][ 20]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55032, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44
+[2023.10.03-00.21.25:512][ 20]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55032, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44, Channels: 11, Time: 2023.10.03-00.21.25
+[2023.10.03-00.21.25:512][ 20]LogNet: UNetConnection::SendCloseReason:
+[2023.10.03-00.21.25:512][ 20]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2023.10.03-00.21.25:512][ 20]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55032, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_FPS_C_1, Owner: PC_FPS_C_1, UniqueId: NULL:MontorPC-2F612F26423CAB487FD17383CF9A4D44
+[2023.10.03-00.21.25:512][ 20]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2023.10.03-00.21.25:516][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-00.21.25:520][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-00.21.25:532][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-00.21.25:533][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.03-00.21.25:533][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-00.21.25:538][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.03-00.21.25:546][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.03-00.21.25:546][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-00.21.25:551][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.03-00.21.25:568][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.03-00.21.25:614][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.03-00.21.25:614][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.03-00.22.02:573][666]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.22.02:629][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.03-00.22.59:364][395]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.22.59:423][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.03-00.23.25:354][357]LogEditorTransaction: Undo Move Node
+[2023.10.03-00.23.25:490][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.03-00.23.26:568][393]LogEditorTransaction: Undo Create Pin Link
+[2023.10.03-00.23.26:702][393]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.03-00.23.39:018][932]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.23.39:069][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.03-00.25.37:990][982]BlueprintLog: New page: Compile BP_PLayerBase
+[2023.10.03-00.25.38:044][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.03-00.25.51:254][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.03-00.25.51:325][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.03-00.25.51:364][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-00.25.51:442][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PLayerBase" FILE="../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset" SILENT=true
+[2023.10.03-00.25.51:468][439]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PLayerBase
+[2023.10.03-00.25.51:468][439]LogSavePackage: Moving '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Saved/BP_PLayerBase388523DC4132BFE71EA2C4AC0747CD71.tmp' to '../../../../../../yomero/Cursos Unreal/FPS Multiplayer/FPSMulti/Content/Blueprints/Player/BP_PLayerBase.uasset'
+[2023.10.03-00.25.51:486][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1.94 sec)
+[2023.10.03-00.25.51:490][439]AssetCheck: New page: Asset Save: BP_PLayerBase
+[2023.10.03-00.25.51:490][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PLayerBase.BP_PLayerBase
